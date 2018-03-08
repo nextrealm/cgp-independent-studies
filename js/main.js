@@ -36,8 +36,8 @@ function init() {
 }
 
 function preload() {
-    game.load.image('logo', 'assets/sprites/logo.png');
-    game.load.image('icon', 'assets/sprites/icon.png');
+    game.load.image('grass', 'assets/sprites/grass.png');
+    game.load.image('dirt', 'assets/sprites/dirt.png');
     game.load.script('ColorMatrixFilter', 'https://rawgit.com/photonstorm/phaser/v2.6.2/filters/pixi/ColorMatrixFilter.js');
 }
 

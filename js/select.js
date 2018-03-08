@@ -3,7 +3,7 @@ var title;
 
 select = {
     create: function(){
-        sprite = game.add.sprite(game.world.centerX, game.world.centerX, 'icon');
+        sprite = game.add.sprite(game.world.centerX, game.world.centerX, 'grass');
         sprite.scale.set(1);
         sprite.anchor.set(0.5);
         sprite.smoothed = false;
