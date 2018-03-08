@@ -1,4 +1,4 @@
-var game = new Phaser.Game(750, 1334, Phaser.AUTO, 'game', { init: init, preload: preload, create: create, update: update });
+var game = new Phaser.Game(750, 1334, Phaser.CANVAS, 'game', { init: init, preload: preload, create: create, update: update });
 
 game.global = {
     clicked: false
