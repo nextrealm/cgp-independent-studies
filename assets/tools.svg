@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="tools.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4678">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4674" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop4676" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter941">
+      <feGaussianBlur
+         stdDeviation="2 2"
+         result="blur"
+         id="feGaussianBlur939" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask981">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.46607468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -182.03281,30.299959 v 25.4 h 25.4 v -25.4 z m 7.22488,2.116667 h 10.9492 c 2.83015,0 5.10873,2.278581 5.10873,5.108731 v 10.949204 c 0,2.83015 -2.27858,5.108731 -5.10873,5.108731 h -10.9492 c -2.83015,0 -5.10873,-2.278581 -5.10873,-5.108731 V 37.525357 c 0,-2.83015 2.27858,-5.108731 5.10873,-5.108731 z"
+         id="path983"
+         inkscape:connector-curvature="0" />
+    </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4678"
+       id="linearGradient965"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(21.166672,1.3229171)"
+       x1="-171.97917"
+       y1="44.322918"
+       x2="-170.65625"
+       y2="44.322918" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4678"
+       id="linearGradient967"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(21.166661,1.3229179)"
+       x1="-162.71875"
+       y1="44.322918"
+       x2="-164.04167"
+       y2="44.322918" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.8176907"
+     inkscape:cx="-10.835096"
+     inkscape:cy="966.22018"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showborder="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4504" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4506"
+       width="21.166666"
+       height="21.166666"
+       x="-179.91667"
+       y="32.416664"
+       ry="5.1085749"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -600.54297 187.70703 A 85.000002 85.000002 0 0 1 -628.07227 196.67773 A 85.000002 85.000002 0 0 1 -679.45312 187.72266 C -677.42913 196.22529 -669.83093 202.51953 -660.69141 202.51953 L -619.30859 202.51953 C -610.16344 202.51953 -602.56131 196.21764 -600.54297 187.70703 z "
+       id="rect4524"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003"
+       transform="scale(0.26458333)" />
+    <rect
+       ry="4.4700055"
+       y="33.739574"
+       x="-178.59375"
+       height="18.520842"
+       width="18.520834"
+       id="rect4508"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.87500024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -605 172.24414 A 64.999998 64.999998 0 0 1 -630.87891 181.87695 A 64.999998 64.999998 0 0 1 -675 172.25977 L -675 180.625 C -675 189.98456 -667.46503 197.51953 -658.10547 197.51953 L -621.89453 197.51953 C -612.53497 197.51953 -605 189.98456 -605 180.625 L -605 172.24414 z "
+       id="rect4519"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003"
+       transform="scale(0.26458333)" />
+    <g
+       id="g4569"
+       transform="translate(-34.03307,-7.061637)"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4558"
+         d="m -132.83611,46.271633 a 0.6614583,0.6614583 0 0 0 -0.0453,0.04823 l -3.74177,3.741774 0.93544,0.935443 3.74178,-3.741773 -0.004,-0.0037 a 0.6614583,0.6614583 0 0 0 0.12424,-0.138124 0.6614583,0.6614583 0 0 0 -0.15347,-0.895247 0.6614583,0.6614583 0 0 0 -0.85725,0.05335 z"
+         style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4549"
+         d="m -139.99079,51.558349 0.005,0.0048 c -0.67318,0.782888 -0.18892,2.060125 0.0797,2.6989 0.6628,0.289379 1.92864,0.78853 2.71863,0.09939 l 0.003,0.0033 2.80633,-2.80633 -2.80633,-2.80633 z"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#cdffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter941)"
+       id="rect921"
+       width="21.166666"
+       height="21.166666"
+       x="-179.91667"
+       y="32.416664"
+       ry="5.1085749"
+       mask="url(#mask981)"
+       clip-path="none"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_hilight.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003"
+       transform="translate(-26.458334)" />
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       ry="5.1085749"
+       y="32.416664"
+       x="-74.083328"
+       height="21.166666"
+       width="21.166666"
+       id="rect875"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       id="path877"
+       d="m -53.060287,49.664151 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594501,-2.369363 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect879"
+       width="18.520834"
+       height="18.520842"
+       x="-72.760414"
+       y="33.739574"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       id="path881"
+       d="m -54.239547,45.572928 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       transform="rotate(45,-105.67439,133.97602)"
+       id="g887">
+      <rect
+         style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect883"
+         width="1.3229166"
+         height="7.9375"
+         x="-141.28751"
+         y="35.327084" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -526.44727,167.44531 c 3.93675,-0.55764 6.7542,-4.09059 6.42188,-8.05273 l -0.26758,-1.33008 c -0.80709,2.85303 -3.21921,4.96277 -6.1543,5.38281 -0.81328,0.009 -2.13667,0.0438 -2.55273,0.0742 l -5.00001,1.8e-4 c -0.0359,0.93647 3.61619,4.48365 7.55274,3.92562 z"
+         transform="scale(0.26458333)"
+         id="path885"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       ry="5.1085749"
+       y="32.416664"
+       x="-100.54165"
+       height="21.166666"
+       width="21.166666"
+       id="rect889"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       id="path891"
+       d="m -79.518622,49.664151 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594501,-2.369363 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect893"
+       width="18.520834"
+       height="18.520842"
+       x="-99.218735"
+       y="33.739574"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       id="path895"
+       d="m -80.697882,45.572928 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       transform="rotate(28.777511,-119.697,164.87182)"
+       id="g939">
+      <rect
+         style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect897"
+         width="7.9375"
+         height="11.90625"
+         x="-156.10417"
+         y="37.708332" />
+      <path
+         style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -156.10416,37.708332 h 7.9375 l -1.32292,1.322918 h -5.29166 z"
+         id="path899"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g937"
+         transform="translate(1.6166815e-8,-3.7041667)">
+        <g
+           id="g905">
+          <path
+             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path901"
+             sodipodi:type="arc"
+             sodipodi:cx="-154.11748"
+             sodipodi:cy="47.553139"
+             sodipodi:rx="0.66145831"
+             sodipodi:ry="0.66145831"
+             sodipodi:start="6.1996015"
+             sodipodi:end="5.9707714"
+             sodipodi:open="true"
+             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+          <path
+             sodipodi:type="star"
+             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path903"
+             sodipodi:sides="5"
+             sodipodi:cx="-154.11101"
+             sodipodi:cy="46.93256"
+             sodipodi:r1="0.26458332"
+             sodipodi:r2="0.13229167"
+             sodipodi:arg1="1.5707963"
+             sodipodi:arg2="2.1991149"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+             inkscape:transform-center-x="-1.8433333e-006"
+             inkscape:transform-center-y="0.025264875" />
+        </g>
+        <g
+           transform="translate(1.0583283,-0.26458255)"
+           id="g911">
+          <path
+             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
+             sodipodi:open="true"
+             sodipodi:end="5.9707714"
+             sodipodi:start="6.1996015"
+             sodipodi:ry="0.66145831"
+             sodipodi:rx="0.66145831"
+             sodipodi:cy="47.553139"
+             sodipodi:cx="-154.11748"
+             sodipodi:type="arc"
+             id="path907"
+             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:transform-center-y="0.025264875"
+             inkscape:transform-center-x="-1.8433333e-006"
+             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.1991149"
+             sodipodi:arg1="1.5707963"
+             sodipodi:r2="0.13229167"
+             sodipodi:r1="0.26458332"
+             sodipodi:cy="46.93256"
+             sodipodi:cx="-154.11101"
+             sodipodi:sides="5"
+             id="path909"
+             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             sodipodi:type="star" />
+        </g>
+        <g
+           id="g917"
+           transform="translate(1.8520783)">
+          <path
+             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path913"
+             sodipodi:type="arc"
+             sodipodi:cx="-154.11748"
+             sodipodi:cy="47.553139"
+             sodipodi:rx="0.66145831"
+             sodipodi:ry="0.66145831"
+             sodipodi:start="6.1996015"
+             sodipodi:end="5.9707714"
+             sodipodi:open="true"
+             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+          <path
+             sodipodi:type="star"
+             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path915"
+             sodipodi:sides="5"
+             sodipodi:cx="-154.11101"
+             sodipodi:cy="46.93256"
+             sodipodi:r1="0.26458332"
+             sodipodi:r2="0.13229167"
+             sodipodi:arg1="1.5707963"
+             sodipodi:arg2="2.1991149"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+             inkscape:transform-center-x="-1.8433333e-006"
+             inkscape:transform-center-y="0.025264875" />
+        </g>
+        <g
+           id="g923"
+           transform="translate(3.7041616)">
+          <path
+             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path919"
+             sodipodi:type="arc"
+             sodipodi:cx="-154.11748"
+             sodipodi:cy="47.553139"
+             sodipodi:rx="0.66145831"
+             sodipodi:ry="0.66145831"
+             sodipodi:start="6.1996015"
+             sodipodi:end="5.9707714"
+             sodipodi:open="true"
+             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+          <path
+             sodipodi:type="star"
+             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path921"
+             sodipodi:sides="5"
+             sodipodi:cx="-154.11101"
+             sodipodi:cy="46.93256"
+             sodipodi:r1="0.26458332"
+             sodipodi:r2="0.13229167"
+             sodipodi:arg1="1.5707963"
+             sodipodi:arg2="2.1991149"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+             inkscape:transform-center-x="-1.8433333e-006"
+             inkscape:transform-center-y="0.025264875" />
+        </g>
+        <g
+           transform="translate(2.9104116,0.26458412)"
+           id="g929">
+          <path
+             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
+             sodipodi:open="true"
+             sodipodi:end="5.9707714"
+             sodipodi:start="6.1996015"
+             sodipodi:ry="0.66145831"
+             sodipodi:rx="0.66145831"
+             sodipodi:cy="47.553139"
+             sodipodi:cx="-154.11748"
+             sodipodi:type="arc"
+             id="path925"
+             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:transform-center-y="0.025264875"
+             inkscape:transform-center-x="-1.8433333e-006"
+             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.1991149"
+             sodipodi:arg1="1.5707963"
+             sodipodi:r2="0.13229167"
+             sodipodi:r1="0.26458332"
+             sodipodi:cy="46.93256"
+             sodipodi:cx="-154.11101"
+             sodipodi:sides="5"
+             id="path927"
+             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             sodipodi:type="star" />
+        </g>
+        <g
+           transform="translate(4.2333283,0.26458412)"
+           id="g935">
+          <path
+             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
+             sodipodi:open="true"
+             sodipodi:end="5.9707714"
+             sodipodi:start="6.1996015"
+             sodipodi:ry="0.66145831"
+             sodipodi:rx="0.66145831"
+             sodipodi:cy="47.553139"
+             sodipodi:cx="-154.11748"
+             sodipodi:type="arc"
+             id="path931"
+             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:transform-center-y="0.025264875"
+             inkscape:transform-center-x="-1.8433333e-006"
+             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.1991149"
+             sodipodi:arg1="1.5707963"
+             sodipodi:r2="0.13229167"
+             sodipodi:r1="0.26458332"
+             sodipodi:cy="46.93256"
+             sodipodi:cx="-154.11101"
+             sodipodi:sides="5"
+             id="path933"
+             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             sodipodi:type="star" />
+        </g>
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       ry="5.1085749"
+       y="32.416664"
+       x="-126.99998"
+       height="21.166666"
+       width="21.166666"
+       id="rect941"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       id="path943"
+       d="m -105.97696,49.664151 a 22.489584,22.489584 0 0 1 -7.2838,2.373498 22.489584,22.489584 0 0 1 -13.59451,-2.369363 c 0.53551,2.249655 2.54587,3.915006 4.96403,3.915006 h 10.94921 c 2.41965,0 4.43105,-1.667375 4.96507,-3.919141 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect945"
+       width="18.520834"
+       height="18.520842"
+       x="-125.67707"
+       y="33.739574"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       id="path947"
+       d="m -107.15622,45.572928 a 17.197916,17.197916 0 0 1 -6.84713,2.548681 17.197916,17.197916 0 0 1 -11.6737,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.58081 c 2.47638,0 4.47001,-1.993627 4.47001,-4.470011 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       transform="translate(31.750013,-1.3229167)"
+       id="g963">
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.3086805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect949"
+         width="9.2604113"
+         height="9.2604189"
+         x="-150.8125"
+         y="41.677082" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect951"
+         width="5.2916665"
+         height="1.3229166"
+         x="-106.93353"
+         y="119.58781"
+         transform="rotate(32.649821)" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -146.84375,37.708336 v 0.0031 a 2.6458331,2.6458331 0 0 0 -0.11576,-5.16e-4 h -5.1e-4 a 2.6458331,2.6458331 0 0 0 -2.39883,1.829861 l -0.11885,0.59273 a 2.6458331,2.6458331 0 0 0 -0.007,0.220657 h -0.005 v 1.322917 h 1.32292 v -1.301213 -0.0217 h 5.2e-4 a 1.3229166,1.3229166 0 0 1 0.004,-0.110588 l 0.0594,-0.296106 a 1.3229166,1.3229166 0 0 1 1.25884,-0.914672 v -0.0016 h 1.32291 v 0.0016 a 1.3229165,1.3229165 0 0 1 1.25884,0.914672 l 0.0594,0.296106 a 1.3229165,1.3229165 0 0 1 0.004,0.110588 h 5.2e-4 v 0.0217 1.301213 h 1.32292 v -1.322916 h -0.005 a 2.6458331,2.6458331 0 0 0 -0.007,-0.220657 l -0.11885,-0.59273 a 2.6458331,2.6458331 0 0 0 -2.39883,-1.829861 h -5.1e-4 a 2.6458331,2.6458331 0 0 0 -0.11576,5.16e-4 v -0.0031 z"
+         id="path953"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:0.78431373;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -155.26799,44.113883 4.45549,2.59029 1e-5,0.264583 z"
+         id="path955"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d;fill-opacity:0.78431373;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -146.84427,38.852411 v 0.0021 a 1.3229166,1.4122146 0 0 0 -1.25884,0.976169 l -0.0589,0.316259 a 1.3229166,1.4122146 0 0 0 -0.004,0.117822 h -5.3e-4 v 0.02326 0.06615 h 5.3e-4 a 1.3229166,1.3229166 0 0 1 0.004,-0.110588 l 0.0589,-0.296106 a 1.3229166,1.3229166 0 0 1 1.25884,-0.914673 v -0.0016 h 1.32292 v 0.0016 a 1.3229165,1.3229165 0 0 1 1.25883,0.914673 l 0.0594,0.296106 a 1.3229165,1.3229165 0 0 1 0.004,0.110588 h 5.3e-4 v -0.06615 -0.02326 h -5.3e-4 a 1.3229165,1.4122145 0 0 0 -0.004,-0.117822 l -0.0594,-0.316259 a 1.3229165,1.4122145 0 0 0 -1.25882,-0.976152 v -0.0021 z"
+         id="path957" />
+      <rect
+         style="fill:url(#linearGradient965);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect959"
+         width="9.260417"
+         height="9.260417"
+         x="-150.8125"
+         y="41.677082" />
+      <rect
+         y="41.677082"
+         x="-150.8125"
+         height="9.260417"
+         width="9.260417"
+         id="rect961"
+         style="fill:url(#linearGradient967);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       ry="5.1085749"
+       y="32.416664"
+       x="-153.45831"
+       height="21.166666"
+       width="21.166666"
+       id="rect969"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       id="path971"
+       d="m -132.43531,49.664151 a 22.489584,22.489584 0 0 1 -7.2838,2.373498 22.489584,22.489584 0 0 1 -13.59451,-2.369363 c 0.53551,2.249655 2.54587,3.915006 4.96403,3.915006 h 10.94921 c 2.41965,0 4.43105,-1.667375 4.96507,-3.919141 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect973"
+       width="18.520834"
+       height="18.520842"
+       x="-152.13539"
+       y="33.739574"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       id="path975"
+       d="m -133.61457,45.572928 a 17.197916,17.197916 0 0 1 -6.84713,2.548681 17.197916,17.197916 0 0 1 -11.6737,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.58081 c 2.47638,0 4.47001,-1.993627 4.47001,-4.470011 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="76.800003"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       id="g983"
+       transform="translate(26.458334)">
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -173.05632,43.245758 -2.80633,2.80633 0.0106,0.01061 a 1.984375,1.984375 0 0 0 -0.37161,0.414745 1.984375,1.984375 0 0 0 0.45931,2.68611 1.984375,1.984375 0 0 0 2.70804,-0.305117 l 2.80633,-2.80633 z"
+         id="path977"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect979"
+         width="1.3229166"
+         height="11.90625"
+         x="-90.466988"
+         y="141.04242"
+         transform="rotate(45)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect981"
+         width="3.96875"
+         height="1.3229166"
+         x="-91.789909"
+         y="141.04242"
+         transform="rotate(45)" />
+    </g>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1604"
+       width="21.166666"
+       height="21.166666"
+       x="-47.624992"
+       y="32.416664"
+       ry="5.1085749"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -26.601952,49.664151 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594501,-2.369363 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
+       id="path1606"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       ry="4.4700055"
+       y="33.739574"
+       x="-46.302078"
+       height="18.520842"
+       width="18.520834"
+       id="rect1608"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -27.781212,45.572928 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
+       id="path1610"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <g
+       id="g1631"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <rect
+         y="40.354168"
+         x="-42.333332"
+         height="7.9375"
+         width="10.583333"
+         id="rect1618"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect1620"
+         d="m -39.6875,37.708333 h 5.291667 L -31.75,40.354167 h -10.583333 z"
+         style="opacity:1;fill:#ac9d93;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="44.322914"
+         x="-41.010418"
+         height="3.96875"
+         width="2.6458333"
+         id="rect1623"
+         style="opacity:1;fill:#784421;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="41.677082"
+         x="-37.041668"
+         height="3.96875"
+         width="3.96875"
+         id="rect1625"
+         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect900"
+       width="21.166666"
+       height="21.166666"
+       x="-21.166658"
+       y="32.416664"
+       ry="5.1085749"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -0.14361763,49.664151 A 22.489584,22.489584 0 0 1 -7.4274143,52.037649 22.489584,22.489584 0 0 1 -21.021915,49.668286 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.9492037 c 2.4196467,0 4.43104667,-1.667375 4.96506667,-3.919141 z"
+       id="path902"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       ry="4.4700055"
+       y="33.739574"
+       x="-19.843744"
+       height="18.520842"
+       width="18.520834"
+       id="rect904"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -1.3228776,45.572928 a 17.197916,17.197916 0 0 1 -6.8471267,2.548681 17.197916,17.197916 0 0 1 -11.6736937,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.5808037 c 2.4763767,0 4.4700067,-1.993627 4.4700067,-4.470011 z"
+       id="path906"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <g
+       id="g928"
+       transform="rotate(-45,11.565784,73.889102)"
+       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         sodipodi:nodetypes="csccccc"
+         inkscape:connector-curvature="0"
+         id="path916"
+         transform="scale(0.26458333)"
+         d="m 60.000001,132.51969 c -6.90356,0 -15.000002,5.59628 -15.000001,12.49984 -10e-7,6.90356 5.59644,12.5 12.5,12.5 1.014264,-0.004 2.024294,-0.13104 3.007812,-0.37891 C 54.929594,155.76536 51.007125,150.76477 51,145.01953 c 0.0053,-5.74068 7.000001,-7.49984 9.000001,-7.49984 0,-3 1.009033,-4.99493 0,-5 z"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:15.99999905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="35.0625"
+         x="15.875"
+         height="1.3229166"
+         width="9.260417"
+         id="rect924"
+         style="opacity:1;fill:#c87137;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

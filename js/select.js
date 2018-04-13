@@ -1,30 +1,42 @@
 var sprite;
 var title;
 
-select = {
-    create: function(){
-        sprite = game.add.sprite(game.world.centerX, game.world.centerX, 'grass');
-        sprite.scale.set(1);
-        sprite.anchor.set(0.5);
-        sprite.smoothed = false;
+class Select extends Phaser.Scene {
+    constructor() {
+        super({key: 'Select'/*, files: [{
+            key: 'aqua_ball',
+            type: 'image',
+            url: 'assets/sprites/aqua_ball.png'
+        }]*/});
+    }
 
-        var filter = new PIXI.ColorMatrixFilter();
-        filter.matrix = [1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1];
-        sprite.filters = [filter];
+    preload() {
+        this.load.image('level', 'assets/sprites/level.png');
+    }
+
+    create() {
+        console.info('Select scene started.');
+
+        sprite = this.add.sprite(160, 120, 'level');
+        //sprite = game.add.sprite(game.world.centerX, game.world.centerY, 'level');
+        /*sprite.scale.set(1);
+        sprite.anchor.set(0.5);
+        sprite.smoothed = false;*/
+        sprite.setOrigin(0.5, 0.5);
+        sprite.setScale(1);
 
         var style = {
             font: 'bold 20pt Arial',
             fill: 'rgb(85,85,85)'
         };
-        title = game.add.text(148, 258, "Testing...", style);
-        title.anchor.set(0);
-    },
-    update: function(){
+        title = this.add.text(148, 258, "Testing...", style);
+        //title.anchor.set(0);
+        title.setOrigin(0);
+    }
 
-    },
-    onButtonClick: function(button, pointer, isOver){
-        if(isOver){
-            game.state.start("Game");
-		}
+    onButtonClick(button, pointer, isOver) {
+        if(isOver) {
+            this.scene.launch('Game');
+        }
     }
 }

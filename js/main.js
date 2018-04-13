@@ -1,7 +1,55 @@
-var game = new Phaser.Game(750, 1334, Phaser.CANVAS, 'game', { init: init, preload: preload, create: create, update: update });
+class Main extends Phaser.Scene {
+    constructor() {
+        super({key: 'Main'/*, files: [{
+            key: 'aqua_ball',
+            type: 'image',
+            url: 'assets/sprites/aqua_ball.png'
+        }]*/});
+    }
+
+    preload() {
+        //this.load.image('level', 'assets/sprites/level.png');
+    }
+
+    create() {
+        console.info('Main scene started.');
+
+        /*var that = this;
+
+        window.onresize = function ()
+	    {
+	    	that.cameras.main.setBounds(0, 0, 1334, 750);
+	    	var zoom = 750 / window.innerHeight;
+	    	console.log(zoom);
+	    	that.cameras.main.setZoom(zoom);
+	    	that.cameras.main.scrollX = 0;
+	        game.renderer.resize(window.innerWidth, window.innerHeight, 1.0);
+	    }*/
+
+        /*game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
+	    game.scale.pageAlignHorizontally = true;
+	    game.scale.pageAlignVertically = true;
+	    game.scale.refresh();
+	    game.stage.backgroundColor = 'rgb(37,77,109)';*/
+	    game.user.load();
+
+        //this.scene.launch('Select');
+        this.scene.launch('FarmFactsGame');
+    }
+}
+
+//var game = new Phaser.Game(750, 1334, Phaser.CANVAS, 'game', { init: init, preload: preload, create: create, update: update });
+const game = new Phaser.Game({
+    type: Phaser.AUTO,
+    width: 1334,
+    height: 750,
+    scene: [Main, Select, FarmFactsGame]
+});
 
 game.global = {
-    clicked: false
+    water: 0,
+    tomatoeSeeds: 0,
+    tomatoeCount: 0
 }
 
 game.user = {
@@ -26,28 +74,24 @@ game.user = {
 	}
 }
 
-function init() {
-    game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
-    game.scale.pageAlignHorizontally = true;
-    game.scale.pageAlignVertically = true;
-    game.scale.refresh();
-    game.stage.backgroundColor = 'rgb(37,77,109)';
-    game.user.load();
+function resize() {
+    var canvas = document.querySelector("canvas");
+    var windowWidth = window.innerWidth;
+    var windowHeight = window.innerHeight;
+    var windowRatio = windowWidth / windowHeight;
+    var gameRatio = game.config.width / game.config.height;
+    if(windowRatio < gameRatio){
+        canvas.style.width = windowWidth + "px";
+        canvas.style.height = (windowWidth / gameRatio) + "px";
+    }
+    else{
+        canvas.style.width = (windowHeight * gameRatio) + "px";
+        canvas.style.height = windowHeight + "px";
+    }
 }
 
-function preload() {
-    game.load.image('grass', 'assets/sprites/grass.png');
-    game.load.image('dirt', 'assets/sprites/dirt.png');
-    game.load.script('ColorMatrixFilter', 'https://rawgit.com/photonstorm/phaser/v2.6.2/filters/pixi/ColorMatrixFilter.js');
-}
+setTimeout(function() {
+	resize();
+}, 1);
 
-function create() {
-    game.state.start("Select");
-}
-
-function update() {
-    
-}
-
-game.state.add("Select", select);
-game.state.add("Game", farmFactsGame);
+window.addEventListener("resize", resize, false);
