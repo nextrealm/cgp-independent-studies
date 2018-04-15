@@ -47,9 +47,12 @@ const game = new Phaser.Game({
 });
 
 game.global = {
+    user_id: -1,
     water: 0,
     tomatoeSeeds: 0,
-    tomatoeCount: 0
+    tomatoeCount: 0,
+    score: -1,
+    scores: []
 }
 
 game.user = {

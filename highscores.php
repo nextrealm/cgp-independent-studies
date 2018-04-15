@@ -5,8 +5,28 @@ error_reporting(E_ALL);
 
 if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
     $method = $_POST['method'];
-    $user_id = $_POST['user_id'];
+    if(array_key_exists('user_id', $_POST)){
+        $user_id = $_POST['user_id'];
+    }
     switch($method){
+        case 'register':
+            $username = $_GET['username'];
+            $password = $_GET['password'];
+            $result = register($username, $password);
+            //if($result['success']){
+                echo json_encode($result);
+                exit;
+            //}
+            break;
+        case 'login':
+            $username = $_POST['username'];
+            $password = $_POST['password'];
+            $result = login($username, $password);
+            //if($result['success']){
+                echo json_encode($result);
+                exit;
+            //}
+            break;
         case 'submit':
             $score = $_POST['score'];
             submit($user_id, $score);
@@ -25,8 +45,28 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
     }
 } else {
     $method = $_GET['method'];
-    $user_id = $_GET['user_id'];
+    if(array_key_exists('user_id', $_GET)){
+        $user_id = $_GET['user_id'];
+    }
     switch($method){
+        case 'register':
+            $username = $_GET['username'];
+            $password = $_GET['password'];
+            $result = register($username, $password);
+            //if($result['success']){
+                echo json_encode($result);
+                exit;
+            //}
+            break;
+        case 'login':
+            $username = $_GET['username'];
+            $password = $_GET['password'];
+            $result = login($username, $password);
+            //if($result['success']){
+                echo json_encode($result);
+                exit;
+            //}
+            break;
         case 'submit':
             $score = $_GET['score'];
             submit($user_id, $score);
@@ -75,19 +115,33 @@ function register($username, $password) {
         $datetime = date("Y-m-d H:i:s", time());
         $statement->bind_param("sss", $username, $password, $datetime);
         $statement->execute();
+        if($statement->errno != 0){
+            $error = ["error" => 1, "message" => "Error"];
+            
+            $statement->close();
+            disconnect($mysqli);
+
+            return $error;
+        }
         $statement->close();
     }else{
         echo $mysqli->error;
         exit;
     }
 
+    $id = $mysqli->insert_id;
+
     disconnect($mysqli);
+
+    return ["success"=>true, "id"=>$id];
 }
 
 function login($username, $password) {
     $mysqli = connect();
 
-    $sql = "SELECT id FROM users WHERE username = $username AND password = $password;";
+    $sql = "SELECT id FROM users WHERE username = '$username' AND password = '$password';";
+    /*echo $sql;
+    exit;*/
 
     if (!$result = $mysqli->query($sql)) {
         $error = ["error" => 1, "message" => "Error"];
