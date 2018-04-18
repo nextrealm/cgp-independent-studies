@@ -72,6 +72,7 @@
 	<script src="js/ajax.js"></script>
 	<script src="js/event.js"></script>
 	<script src="js/user.js"></script>
+	<script src="js/highscore.js"></script>
 	<script src="js/functions.js"></script>
 	<script src="js/select.js"></script>
 	<script src="js/emptyHandTool.js"></script>

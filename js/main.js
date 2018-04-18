@@ -74,7 +74,12 @@ game.user = {
 		if (state) {
 			this.unserialize(state);
 		}
-	}
+    },
+    reset: function() {
+        game.global.water = 0;
+        game.global.tomatoeSeeds = 0;
+        game.global.tomatoeCount = 0;
+    }
 }
 
 function resize() {

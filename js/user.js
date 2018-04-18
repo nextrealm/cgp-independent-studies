@@ -17,6 +17,16 @@ function showRegister(){
     $("#registerAlert").hide();
 }
 
+function hideModals() {
+    $("#modal").hide();
+    $("#modal-login").hide();
+    $("#modal-register").hide();
+    $("#loginAlert").html("");
+    $("#loginAlert").hide();
+    $("#registerAlert").html("");
+    $("#registerAlert").hide();
+}
+
 $("#modal-close").on("click", function(e){
     $("#modal").hide();
 });
@@ -44,6 +54,8 @@ $("#login").on("submit", function(e){
                 $("#loginAlert").show();
             }else{
                 game.global.user_id = data.id;
+                hideModals();
+                onLogin();
             }
         }
     });
@@ -72,6 +84,8 @@ $("#register").on("submit", function(e){
                 $("#registerAlert").show();
             }else{
                 game.global.user_id = data.id;
+                hideModals();
+                onLogin();
             }
         }
     });

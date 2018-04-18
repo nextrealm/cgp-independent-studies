@@ -30,6 +30,9 @@ function submitScore(userId, score){
         success: function(data){
             if(typeof(data.error) != "undefined" && data.error != 0){
                 console.log(data.error);
+                onScoreSubmitFail();
+            }else{
+                onScoreSubmitSuccess();
             }
         }
     });
@@ -48,6 +51,7 @@ function fetchScores(){
                 console.log(data.error);
             }else{
                 game.global.scores = data;
+                updateScores();
             }
         }
     });

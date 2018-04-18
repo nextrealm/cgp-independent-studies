@@ -77,14 +77,14 @@ class FarmFactsGame extends Phaser.Scene {
             ]);
             tile.setInteractive(shape, Phaser.Geom.Polygon.Contains);
             tile.on('pointerdown', function (pointer) {
-                this.setTint(0xff0000);
+                //this.setTint(0xff0000);
                 that.currentTool.onUse(this);
             });
             tile.on('pointerout', function (pointer) {
-                this.clearTint();
+                //this.clearTint();
             });
             tile.on('pointerup', function (pointer) {
-                this.clearTint();
+                //this.clearTint();
             });
             //tile.setOrigin(0, 0);
             waters.push(tile);
@@ -119,14 +119,14 @@ class FarmFactsGame extends Phaser.Scene {
                 ]);
                 tile.setInteractive(shape, Phaser.Geom.Polygon.Contains);
                 tile.on('pointerdown', function (pointer) {
-                    this.setTint(0xff0000);
+                    //this.setTint(0xff0000);
                     that.currentTool.onUse(this);
                 });
                 tile.on('pointerout', function (pointer) {
-                    this.clearTint();
+                    //this.clearTint();
                 });
                 tile.on('pointerup', function (pointer) {
-                    this.clearTint();
+                    //this.clearTint();
                 });
                 //tile.setOrigin(0, 0);
                 tiles.push(tile);

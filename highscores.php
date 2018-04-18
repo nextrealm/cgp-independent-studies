@@ -30,6 +30,7 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         case 'submit':
             $score = $_POST['score'];
             submit($user_id, $score);
+            echo json_encode(["success"=>true]);
             exit;
             break;
         case 'get':
@@ -70,6 +71,7 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         case 'submit':
             $score = $_GET['score'];
             submit($user_id, $score);
+            echo json_encode(["success"=>true]);
             exit;
             break;
         case 'get':
@@ -166,10 +168,33 @@ function login($username, $password) {
 function submit($userId, $score) {
     $mysqli = connect();
 
-    $statement = $mysqli->prepare("INSERT INTO scores (user_id, score) VALUES (?, ?);");
-    $statement->bind_param("ii", $userId, $score);
-    $statement->execute();
-    $statement->close();
+    $found = false;
+    $old_score = -1;
+
+    $sql = "SELECT score FROM scores LEFT JOIN users ON users.id=scores.user_id WHERE user_id = $userId;";
+    if (!$result = $mysqli->query($sql)) {
+    }else{
+        if ($result->num_rows > 0) {
+            $found = true;
+            $data = $result->fetch_assoc();
+            $old_score = $data['score'];
+        }
+        $result->free();
+    }
+
+    if($score > $old_score){
+        if($found){
+            $statement = $mysqli->prepare("UPDATE scores SET score=? WHERE user_id=?;");
+            $statement->bind_param("ii", $score, $userId);
+            $statement->execute();
+            $statement->close();
+        }else{
+            $statement = $mysqli->prepare("INSERT INTO scores (user_id, score) VALUES (?, ?);");
+            $statement->bind_param("ii", $userId, $score);
+            $statement->execute();
+            $statement->close();
+        }
+    }
 
     disconnect($mysqli);
 }
