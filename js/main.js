@@ -43,7 +43,7 @@ const game = new Phaser.Game({
     type: Phaser.AUTO,
     width: 1334,
     height: 750,
-    scene: [Main, Select, FarmFactsGame]
+    scene: [Main, Select, FarmFactsGame, Results]
 });
 
 game.global = {

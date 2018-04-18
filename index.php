@@ -10,7 +10,11 @@
 	<!--[if lt IE 9]>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
 	<![endif]-->
+	<?php if(false): ?>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<?php else: ?>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<?php endif; ?>
 </head>
 <body>
 	<div id="modal" style="display:none;">
@@ -77,6 +81,7 @@
 	<script src="js/tomatoesTool.js"></script>
 	<script src="js/sickleTool.js"></script>
 	<script src="js/game.js"></script>
+	<script src="js/results.js"></script>
 	<script src="js/main.js"></script>
 </body>
 </html>

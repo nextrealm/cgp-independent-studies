@@ -280,6 +280,11 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopClose.on('pointerup', function (pointer) {
             that.closeShop();
         });
+
+        this.timeRemaining = 5 * 60 * 1000;
+        console.log("this.timeRemaining: " + this.timeRemaining);
+        this.timeRemainingText = this.add.text(game.config.width * 0.5, 20, "0:00", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+        this.updateTimeRemainingText();
     }
 
     changeTool(tool) {
@@ -302,5 +307,23 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopBuy.visible = false;
         this.shopCostText.visible = false;
         this.shopClose.visible = false;
+    }
+
+    update(delta){
+        console.log("delta: " + delta);
+        this.timeRemaining -= delta;
+        this.updateTimeRemainingText();
+        console.log("this.timeRemaining: " + this.timeRemaining);
+        if(this.timeRemaining <= 0){
+            this.scene.start("Results");
+        }
+    }
+
+    updateTimeRemainingText(){
+        var minutes = Math.floor((this.timeRemaining / 1000) / 60);
+        console.log("minutes: " + minutes);
+        var seconds = Math.floor((this.timeRemaining / 1000) % 60);
+        console.log("seconds: " + seconds);
+        this.timeRemainingText.setText(minutes + ":" + seconds.padLeft());
     }
 }

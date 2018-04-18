@@ -18,3 +18,8 @@ tempPt.x=Math.floor(x/tileHeight);
 tempPt.y=Math.floor(y/tileHeight);
 return(tempPt);
 }
+
+Number.prototype.padLeft = function(len,chr){
+	var self = Math.abs(this)+'';
+	return (this<0 && '-' || '')+(String(Math.pow(10,(len || 2)-self.length)).slice(1).replace(/0/g,chr||'0')+self);
+}

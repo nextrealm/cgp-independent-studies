@@ -36,7 +36,7 @@ class Select extends Phaser.Scene {
 
     onButtonClick(button, pointer, isOver) {
         if(isOver) {
-            this.scene.launch('Game');
+            this.scene.launch('FarmFactsGame');
         }
     }
 }
