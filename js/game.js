@@ -32,6 +32,7 @@ class FarmFactsGame extends Phaser.Scene {
         this.load.image('button-sickle', 'assets/sprites/button-sickle.png');
 
         this.load.image('shop-bg', 'assets/sprites/shop-bg.png');
+        this.load.image('shop-panel-bg', 'assets/sprites/shop-panel-bg.png');
         this.load.image('shop-buy', 'assets/sprites/shop-buy.png');
         this.load.image('shop-close', 'assets/sprites/shop-close.png');
     }
@@ -244,35 +245,41 @@ class FarmFactsGame extends Phaser.Scene {
             that.tomatoesText.setText("x" + game.global.tomatoeCount);
         }
 
-        this.shopContainer = this.add.group();
-        //this.shopContainer.visible = false;
+        //this.shopContainer = this.add.group();
+        this.shopContainer = this.add.container(0, game.config.height * 0.5);
+        this.shopContainer.visible = false;
 
-        this.shopBg = this.add.sprite(0, 0, 'shop-bg');
-        this.shopBg.x += (this.shopBg.width * 0.5) + 16;
-        this.shopBg.y += (this.shopBg.height * 0.5) + 16;
-        this.shopBg.visible = false;
+        this.shopBg = this.add.sprite(0, game.config.height * 0.5, 'shop-bg');
+        this.shopBg.setOrigin(0, 0.5);
+        //this.shopBg.visible = false;
         this.shopContainer.add(this.shopBg);
 
-        this.shopNameText = this.add.text(this.shopBg.x - (this.shopBg.width * 0.5) + 32, this.shopBg.y - (this.shopBg.height * 0.5) + 32, "Tomatoes", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
-        this.shopNameText.visible = false;
-        this.shopContainer.add(this.shopNameText);
+        this.shopTomatoesPanelBg = this.add.sprite(0, 0, 'shop-panel-bg');
+        this.shopTomatoesPanelBg.x += (this.shopTomatoesPanelBg.width * 0.5) + 16;
+        this.shopTomatoesPanelBg.y += (this.shopTomatoesPanelBg.height * 0.5) + 16;
+        //this.shopTomatoesPanelBg.visible = false;
+        this.shopContainer.add(this.shopTomatoesPanelBg);
 
-        this.shopBuy = this.add.sprite(this.shopBg.x + (this.shopBg.width * 0.5), this.shopBg.y + (this.shopBg.height * 0.5), 'shop-buy').setInteractive();
-        this.shopBuy.x -= (this.shopBuy.width * 0.5) + 16;
-        this.shopBuy.y -= (this.shopBuy.height * 0.5) + 16;
-        this.shopBuy.visible = false;
-        this.shopContainer.add(this.shopBuy);
-        this.shopBuy.on('pointerup', function (pointer) {
+        this.shopTomatoesNameText = this.add.text(this.shopTomatoesPanelBg.x - (this.shopTomatoesPanelBg.width * 0.5) + 32, this.shopTomatoesPanelBg.y - (this.shopTomatoesPanelBg.height * 0.5) + 32, "Tomatoes", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+        //this.shopTomatoesNameText.visible = false;
+        this.shopContainer.add(this.shopTomatoesNameText);
+
+        this.shopTomatoesBuy = this.add.sprite(this.shopTomatoesPanelBg.x + (this.shopTomatoesPanelBg.width * 0.5), this.shopTomatoesPanelBg.y + (this.shopTomatoesPanelBg.height * 0.5), 'shop-buy').setInteractive();
+        this.shopTomatoesBuy.x -= (this.shopTomatoesBuy.width * 0.5) + 16;
+        this.shopTomatoesBuy.y -= (this.shopTomatoesBuy.height * 0.5) + 16;
+        //this.shopTomatoesBuy.visible = false;
+        this.shopContainer.add(this.shopTomatoesBuy);
+        this.shopTomatoesBuy.on('pointerup', function (pointer) {
             game.global.tomatoeSeeds++;
             updateTomatoeSeedsText();
         });
 
-        this.shopCostText = this.add.text(this.shopBuy.x, this.shopBuy.y, "x1", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
-        this.shopCostText.setOrigin(0.5);
-        this.shopCostText.visible = false;
-        this.shopContainer.add(this.shopCostText);
+        this.shopTomatoesCostText = this.add.text(this.shopBuy.x, this.shopBuy.y, "x1", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopTomatoesCostText.setOrigin(0.5);
+        //this.shopTomatoesCostText.visible = false;
+        this.shopContainer.add(this.shopTomatoesCostText);
 
-        this.shopClose = this.add.sprite(this.shopBg.x + (this.shopBg.width * 0.5), this.shopBg.y - (this.shopBg.height * 0.5), 'shop-close').setInteractive();
+        this.shopClose = this.add.sprite(this.shopTomatoesPanelBg.x + (this.shopTomatoesPanelBg.width * 0.5), this.shopTomatoesPanelBg.y - (this.shopTomatoesPanelBg.height * 0.5), 'shop-close').setInteractive();
         this.shopClose.x -= (this.shopClose.width * 0.5) - 16;
         this.shopClose.y += (this.shopClose.height * 0.5) - 16;
         this.shopClose.visible = false;
@@ -281,7 +288,27 @@ class FarmFactsGame extends Phaser.Scene {
             that.closeShop();
         });
 
-        this.timeRemaining = 5 * 60 * 1000;
+        var move = false;
+
+        this.input.on('pointerdown', function (pointer) {
+            move = true;
+        });
+        this.input.on('pointerup', function (pointer) {
+            move = false;
+        });
+
+        this.input.on('pointermove', function (pointer) {
+            if (move && that.shopContainer.visible) {
+                //this.shopContainer.x = pointer.x;
+                var y = pointer.y;
+                var min = 0;
+                var max = 100;
+                y = Math.min(Math.max(y, min), max);
+                that.shopContainer.y = y;
+            }
+        });
+
+        this.timeRemaining = 5 * 60 * 100 * 1000;
         console.log("this.timeRemaining: " + this.timeRemaining);
         this.timeRemainingText = this.add.text(game.config.width * 0.5, 20, "0:00", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
         this.updateTimeRemainingText();
@@ -292,24 +319,24 @@ class FarmFactsGame extends Phaser.Scene {
     }
 
     openShop() {
-        //this.shopContainer.visible = true;
-        this.shopBg.visible = true;
+        this.shopContainer.visible = true;
+        /*this.shopBg.visible = true;
         this.shopNameText.visible = true;
         this.shopBuy.visible = true;
         this.shopCostText.visible = true;
-        this.shopClose.visible = true;
+        this.shopClose.visible = true;*/
     }
 
     closeShop() {
-        //this.shopContainer.visible = false;
-        this.shopBg.visible = false;
+        this.shopContainer.visible = false;
+        /*this.shopBg.visible = false;
         this.shopNameText.visible = false;
         this.shopBuy.visible = false;
         this.shopCostText.visible = false;
-        this.shopClose.visible = false;
+        this.shopClose.visible = false;*/
     }
 
-    update(delta){
+    update(time, delta){
         console.log("delta: " + delta);
         this.timeRemaining -= delta;
         this.updateTimeRemainingText();
@@ -320,9 +347,9 @@ class FarmFactsGame extends Phaser.Scene {
     }
 
     updateTimeRemainingText(){
-        var minutes = Math.floor((this.timeRemaining / 1000) / 60);
+        var minutes = Math.floor((this.timeRemaining / 1000 / 100) / 60);
         console.log("minutes: " + minutes);
-        var seconds = Math.floor((this.timeRemaining / 1000) % 60);
+        var seconds = Math.floor((this.timeRemaining / 1000 / 100) % 60);
         console.log("seconds: " + seconds);
         this.timeRemainingText.setText(minutes + ":" + seconds.padLeft());
     }

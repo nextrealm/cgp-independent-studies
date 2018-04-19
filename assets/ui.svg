@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-468.1807"
-     inkscape:cy="1008.0884"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="-187.8042"
+     inkscape:cy="983.55309"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -372,5 +372,24 @@
        inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\shop-close.png"
        inkscape:export-xdpi="62.57"
        inkscape:export-ydpi="62.57" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26744378;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect854"
+       width="132.29167"
+       height="248.70833"
+       x="-31.75"
+       y="-4.625"
+       ry="0"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26744378;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect856"
+       width="5.2916665"
+       height="248.70833"
+       x="95.25"
+       y="-4.625"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
   </g>
 </svg>

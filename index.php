@@ -64,9 +64,9 @@
 	<?php if(true): ?>
 	<script src="js/phaser.js"></script>
 	<?php elseif(true): ?>
-	<script src="//cdn.jsdelivr.net/npm/phaser@3.2.0/dist/phaser.js"></script>
+	<script src="//cdn.jsdelivr.net/npm/phaser@3.5.1/dist/phaser.js"></script>
 	<?php else: ?>
-	<script src="//cdn.jsdelivr.net/npm/phaser@3.2.0/dist/phaser.min.js"></script>
+	<script src="//cdn.jsdelivr.net/npm/phaser@3.5.1/dist/phaser.min.js"></script>
 	<?php endif; ?>
 	<script src="js/zepto.js"></script>
 	<script src="js/ajax.js"></script>
