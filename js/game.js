@@ -169,7 +169,13 @@ class FarmFactsGame extends Phaser.Scene {
 
         this.buttonHilight = this.add.sprite(-100, -100, 'button-hilight');
 
-        this.spadeButton = this.add.sprite(game.config.width, 60, 'button-spade').setInteractive();
+        this.scoreText = this.add.text(game.config.width, 20, game.global.score, {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+
+        window.updateScoreText = function() {
+            that.scoreText.setText(game.global.score);
+        }
+
+        this.spadeButton = this.add.sprite(game.config.width, 72, 'button-spade').setInteractive();
         this.spadeButton.x -= this.spadeButton.width;
         //this.spadeButton.input.useHandCursor = true;
         this.spadeButton.on('pointerup', function (pointer) {
@@ -177,6 +183,8 @@ class FarmFactsGame extends Phaser.Scene {
             that.buttonHilight.x = this.x;
             that.buttonHilight.y = this.y;
         });
+
+        this.scoreText.x -= this.spadeButton.width;
 
         this.wateringCanButton = this.add.sprite(game.config.width, this.spadeButton.y + (this.spadeButton.height * 0.5), 'button-wateringCan').setInteractive();
         this.wateringCanButton.x -= this.wateringCanButton.width;
@@ -279,14 +287,39 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopTomatoesBuy.visible = false;
         this.shopContainer.add(this.shopTomatoesBuy);
         this.shopTomatoesBuy.on('pointerup', function (pointer) {
-            game.global.tomatoeSeeds++;
-            updateTomatoeSeedsText();
+            var tomatoeCost = 1;
+            if(game.global.score >= tomatoeCost){
+                game.global.score -= tomatoeCost;
+                updateScoreText();
+                game.global.tomatoeSeeds++;
+                updateTomatoeSeedsText();
+            }
         });
 
         this.shopTomatoesCostText = this.add.text(this.shopTomatoesBuy.x, this.shopTomatoesBuy.y, "x1", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopTomatoesCostText.setOrigin(0.5);
         //this.shopTomatoesCostText.visible = false;
         this.shopContainer.add(this.shopTomatoesCostText);
+
+        this.shopTomatoesSell = this.add.sprite(this.shopTomatoesPanelBg.x + (this.shopTomatoesPanelBg.width * 0.5), this.shopTomatoesPanelBg.y + (this.shopTomatoesPanelBg.height * 0.5), 'shop-buy').setInteractive();
+        this.shopTomatoesSell.x -= (this.shopTomatoesSell.width * 0.5) + 16 + this.shopTomatoesBuy.width + 16;
+        this.shopTomatoesSell.y -= (this.shopTomatoesSell.height * 0.5) + 16;
+        //this.shopTomatoesSell.visible = false;
+        this.shopContainer.add(this.shopTomatoesSell);
+        this.shopTomatoesSell.on('pointerup', function (pointer) {
+            if(game.global.tomatoeCount > 0){
+                var tomatoeValue = 2;
+                game.global.score += tomatoeValue;
+                updateScoreText();
+                game.global.tomatoeCount--;
+                updateTomatoesText();
+            }
+        });
+
+        this.shopTomatoesValueText = this.add.text(this.shopTomatoesSell.x, this.shopTomatoesSell.y, "x2", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopTomatoesValueText.setOrigin(0.5);
+        //this.shopTomatoesValueText.visible = false;
+        this.shopContainer.add(this.shopTomatoesValueText);
 
         var move = false;
         var offset = {x: 0, y: 0};

@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.62222"
+     inkscape:zoom="23.866667"
      inkscape:cx="370.00001"
-     inkscape:cy="737.50001"
+     inkscape:cy="700.00028"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -234,5 +234,64 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ssssscss" />
     </g>
+    <rect
+       inkscape:export-ydpi="307.20001"
+       inkscape:export-xdpi="307.20001"
+       style="opacity:1;fill:#55ff55;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect871"
+       width="15.875"
+       height="5.2916665"
+       x="89.958336"
+       y="109.14576"
+       ry="0.79375255"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path889"
+       sodipodi:type="arc"
+       sodipodi:cx="92.604164"
+       sodipodi:cy="111.79166"
+       sodipodi:rx="1.8520833"
+       sodipodi:ry="1.8520833"
+       sodipodi:start="6.1996015"
+       sodipodi:end="5.9707714"
+       sodipodi:open="true"
+       d="m 94.449782,111.63703 a 1.8520833,1.8520833 0 0 1 -1.585721,1.98838 1.8520833,1.8520833 0 0 1 -2.075795,-1.46943 1.8520833,1.8520833 0 0 1 1.348349,-2.15642 1.8520833,1.8520833 0 0 1 2.229981,1.22285"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <path
+       d="m 94.191667,111.65866 a 1.5930641,1.5930641 0 0 1 -1.363954,1.7103 1.5930641,1.5930641 0 0 1 -1.785488,-1.26394 1.5930641,1.5930641 0 0 1 1.159778,-1.85483 1.5930641,1.5930641 0 0 1 1.918112,1.05183"
+       sodipodi:open="true"
+       sodipodi:end="5.9707714"
+       sodipodi:start="6.1996015"
+       sodipodi:ry="1.5930641"
+       sodipodi:rx="1.5930641"
+       sodipodi:cy="111.79166"
+       sodipodi:cx="92.604164"
+       sodipodi:type="arc"
+       id="path891"
+       style="fill:#55ff55;fill-opacity:1;stroke:none;stroke-width:0.22758058;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <path
+       sodipodi:nodetypes="sssssss"
+       inkscape:connector-curvature="0"
+       id="path897"
+       d="m 94.985417,111.52708 c 0.115071,1.3e-4 0.0956,0.23626 5e-6,0.32677 l -0.517608,0.49014 c -0.09559,0.0905 -0.249507,0.0905 -0.345097,0 l -0.517604,-0.49013 c -0.09559,-0.0905 -0.115025,-0.32662 4e-6,-0.32678 1.372767,-0.002 8.95e-4,-0.002 1.3803,0 z"
+       style="fill:#55ff55;fill-opacity:1;stroke:none;stroke-width:0.23744152;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.21166752;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 94.893947,111.52099 c 0.09982,1.1e-4 0.08293,0.21643 5e-6,0.29935 l -0.449006,0.44901 c -0.08292,0.0829 -0.216438,0.0829 -0.299358,0 l -0.449002,-0.449 c -0.08292,-0.0829 -0.09978,-0.29922 3e-6,-0.29936 1.190824,-0.002 7.77e-4,-0.002 1.197358,0 z"
+       id="rect893"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
   </g>
 </svg>

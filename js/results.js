@@ -13,12 +13,11 @@ class Results extends Phaser.Scene {
     preload() {
         this.load.image('button-login', 'assets/sprites/button-login.png');
         this.load.image('button-logout', 'assets/sprites/button-logout.png');
+        this.load.image('button-replay', 'assets/sprites/button-replay.png');
     }
 
     create() {
         console.info('Results scene started.');
-
-        game.user.reset();
 
         /*sprite = this.add.sprite(160, 120, 'level');
         //sprite = game.add.sprite(game.world.centerX, game.world.centerY, 'level');
@@ -131,6 +130,16 @@ class Results extends Phaser.Scene {
         if(game.global.user_id != -1){
             submitScore(game.global.user_id, game.global.score);
         }
+
+        this.replayButton = this.add.sprite(game.config.width * 0.5, 640, 'button-replay').setInteractive();
+        //this.replayButton.x -= this.replayButton.width;
+        this.replayButton.on('pointerup', function (pointer) {
+            game.user.reset();
+            that.scene.start("FarmFactsGame");
+        });
+        this.replayButton.visible = game.global.user_id != -1;
+
+        this.replayText = this.add.text(this.replayButton.x, this.replayButton.y, "Replay", {fontFamily: 'Arial', fontSize: 26, color: '#000'}).setOrigin(0, 0.5);
     }
 
     updateScores() {
