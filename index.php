@@ -80,6 +80,7 @@
 	<script src="js/wateringCanTool.js"></script>
 	<script src="js/ploughTool.js"></script>
 	<script src="js/tomatoesTool.js"></script>
+	<script src="js/beansTool.js"></script>
 	<script src="js/sickleTool.js"></script>
 	<script src="js/game.js"></script>
 	<script src="js/results.js"></script>

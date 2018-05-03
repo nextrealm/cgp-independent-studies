@@ -52,6 +52,8 @@ game.global = {
     water: 0,
     tomatoeSeeds: 0,
     tomatoeCount: 0,
+    beanSeeds: 0,
+    beanCount: 0,
     score: 10,
     scores: []
 }
@@ -81,6 +83,8 @@ game.user = {
         game.global.water = 0;
         game.global.tomatoeSeeds = 0;
         game.global.tomatoeCount = 0;
+        game.global.beanSeeds = 0;
+        game.global.beanCount = 0;
     }
 }
 

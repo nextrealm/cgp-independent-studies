@@ -77,15 +77,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.8176907"
-     inkscape:cx="-10.835096"
-     inkscape:cy="966.22018"
+     inkscape:zoom="64.359765"
+     inkscape:cx="-289.63449"
+     inkscape:cy="921.01031"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -117,16 +117,16 @@
        x="-179.91667"
        y="32.416664"
        ry="5.1085749"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-spade.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <path
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M -600.54297 187.70703 A 85.000002 85.000002 0 0 1 -628.07227 196.67773 A 85.000002 85.000002 0 0 1 -679.45312 187.72266 C -677.42913 196.22529 -669.83093 202.51953 -660.69141 202.51953 L -619.30859 202.51953 C -610.16344 202.51953 -602.56131 196.21764 -600.54297 187.70703 z "
        id="rect4524"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-spade.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108"
        transform="scale(0.26458333)" />
     <rect
        ry="4.4700055"
@@ -136,23 +136,23 @@
        width="18.520834"
        id="rect4508"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-spade.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <path
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.87500024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M -605 172.24414 A 64.999998 64.999998 0 0 1 -630.87891 181.87695 A 64.999998 64.999998 0 0 1 -675 172.25977 L -675 180.625 C -675 189.98456 -667.46503 197.51953 -658.10547 197.51953 L -621.89453 197.51953 C -612.53497 197.51953 -605 189.98456 -605 180.625 L -605 172.24414 z "
        id="rect4519"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-spade.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108"
        transform="scale(0.26458333)" />
     <g
        id="g4569"
        transform="translate(-34.03307,-7.061637)"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_spade.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003">
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-spade.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
       <path
          inkscape:connector-curvature="0"
          id="rect4558"
@@ -174,14 +174,14 @@
        ry="5.1085749"
        mask="url(#mask981)"
        clip-path="none"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_hilight.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-hilight.png"
+       inkscape:export-xdpi="108.00007"
+       inkscape:export-ydpi="108.00007"
        transform="translate(-26.458334)" />
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       inkscape:export-ydpi="108.00002"
+       inkscape:export-xdpi="108.00002"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-plough.png"
        ry="5.1085749"
        y="32.416664"
        x="-74.083328"
@@ -190,17 +190,17 @@
        id="rect875"
        style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       inkscape:export-ydpi="108.00002"
+       inkscape:export-xdpi="108.00002"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-plough.png"
        id="path877"
        d="m -53.060287,49.664151 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594501,-2.369363 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       inkscape:export-ydpi="108.00002"
+       inkscape:export-xdpi="108.00002"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-plough.png"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect879"
        width="18.520834"
@@ -209,17 +209,17 @@
        y="33.739574"
        ry="4.4700055" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       inkscape:export-ydpi="108.00002"
+       inkscape:export-xdpi="108.00002"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-plough.png"
        id="path881"
        d="m -54.239547,45.572928 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <g
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_plough.png"
+       inkscape:export-ydpi="108.00002"
+       inkscape:export-xdpi="108.00002"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-plough.png"
        transform="rotate(45,-105.67439,133.97602)"
        id="g887">
       <rect
@@ -238,9 +238,9 @@
          sodipodi:nodetypes="ccccccc" />
     </g>
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-tomatoes.png"
        ry="5.1085749"
        y="32.416664"
        x="-100.54165"
@@ -249,17 +249,17 @@
        id="rect889"
        style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-tomatoes.png"
        id="path891"
        d="m -79.518622,49.664151 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594501,-2.369363 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-tomatoes.png"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect893"
        width="18.520834"
@@ -268,238 +268,229 @@
        y="33.739574"
        ry="4.4700055" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-tomatoes.png"
        id="path895"
        d="m -80.697882,45.572928 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
+    <rect
+       y="74.969246"
+       x="-61.950188"
+       height="11.90625"
+       width="7.9375"
+       id="rect897"
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(28.777511)" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path899"
+       d="m -90.389985,35.88681 6.957184,3.821189 -1.796399,0.522666 -4.638117,-2.547457 z"
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_tomatoes.png"
-       transform="rotate(28.777511,-119.697,164.87182)"
-       id="g939">
-      <rect
-         style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect897"
-         width="7.9375"
-         height="11.90625"
-         x="-156.10417"
-         y="37.708332" />
+       id="g905"
+       transform="rotate(28.777511,-112.47773,166.7239)">
       <path
-         style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -156.10416,37.708332 h 7.9375 l -1.32292,1.322918 h -5.29166 z"
-         id="path899"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <g
-         id="g937"
-         transform="translate(1.6166815e-8,-3.7041667)">
-        <g
-           id="g905">
-          <path
-             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path901"
-             sodipodi:type="arc"
-             sodipodi:cx="-154.11748"
-             sodipodi:cy="47.553139"
-             sodipodi:rx="0.66145831"
-             sodipodi:ry="0.66145831"
-             sodipodi:start="6.1996015"
-             sodipodi:end="5.9707714"
-             sodipodi:open="true"
-             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
-          <path
-             sodipodi:type="star"
-             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path903"
-             sodipodi:sides="5"
-             sodipodi:cx="-154.11101"
-             sodipodi:cy="46.93256"
-             sodipodi:r1="0.26458332"
-             sodipodi:r2="0.13229167"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.1991149"
-             inkscape:flatsided="false"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
-             inkscape:transform-center-x="-1.8433333e-006"
-             inkscape:transform-center-y="0.025264875" />
-        </g>
-        <g
-           transform="translate(1.0583283,-0.26458255)"
-           id="g911">
-          <path
-             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
-             sodipodi:open="true"
-             sodipodi:end="5.9707714"
-             sodipodi:start="6.1996015"
-             sodipodi:ry="0.66145831"
-             sodipodi:rx="0.66145831"
-             sodipodi:cy="47.553139"
-             sodipodi:cx="-154.11748"
-             sodipodi:type="arc"
-             id="path907"
-             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <path
-             inkscape:transform-center-y="0.025264875"
-             inkscape:transform-center-x="-1.8433333e-006"
-             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:arg2="2.1991149"
-             sodipodi:arg1="1.5707963"
-             sodipodi:r2="0.13229167"
-             sodipodi:r1="0.26458332"
-             sodipodi:cy="46.93256"
-             sodipodi:cx="-154.11101"
-             sodipodi:sides="5"
-             id="path909"
-             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             sodipodi:type="star" />
-        </g>
-        <g
-           id="g917"
-           transform="translate(1.8520783)">
-          <path
-             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path913"
-             sodipodi:type="arc"
-             sodipodi:cx="-154.11748"
-             sodipodi:cy="47.553139"
-             sodipodi:rx="0.66145831"
-             sodipodi:ry="0.66145831"
-             sodipodi:start="6.1996015"
-             sodipodi:end="5.9707714"
-             sodipodi:open="true"
-             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
-          <path
-             sodipodi:type="star"
-             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path915"
-             sodipodi:sides="5"
-             sodipodi:cx="-154.11101"
-             sodipodi:cy="46.93256"
-             sodipodi:r1="0.26458332"
-             sodipodi:r2="0.13229167"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.1991149"
-             inkscape:flatsided="false"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
-             inkscape:transform-center-x="-1.8433333e-006"
-             inkscape:transform-center-y="0.025264875" />
-        </g>
-        <g
-           id="g923"
-           transform="translate(3.7041616)">
-          <path
-             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path919"
-             sodipodi:type="arc"
-             sodipodi:cx="-154.11748"
-             sodipodi:cy="47.553139"
-             sodipodi:rx="0.66145831"
-             sodipodi:ry="0.66145831"
-             sodipodi:start="6.1996015"
-             sodipodi:end="5.9707714"
-             sodipodi:open="true"
-             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
-          <path
-             sodipodi:type="star"
-             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path921"
-             sodipodi:sides="5"
-             sodipodi:cx="-154.11101"
-             sodipodi:cy="46.93256"
-             sodipodi:r1="0.26458332"
-             sodipodi:r2="0.13229167"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.1991149"
-             inkscape:flatsided="false"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
-             inkscape:transform-center-x="-1.8433333e-006"
-             inkscape:transform-center-y="0.025264875" />
-        </g>
-        <g
-           transform="translate(2.9104116,0.26458412)"
-           id="g929">
-          <path
-             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
-             sodipodi:open="true"
-             sodipodi:end="5.9707714"
-             sodipodi:start="6.1996015"
-             sodipodi:ry="0.66145831"
-             sodipodi:rx="0.66145831"
-             sodipodi:cy="47.553139"
-             sodipodi:cx="-154.11748"
-             sodipodi:type="arc"
-             id="path925"
-             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <path
-             inkscape:transform-center-y="0.025264875"
-             inkscape:transform-center-x="-1.8433333e-006"
-             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:arg2="2.1991149"
-             sodipodi:arg1="1.5707963"
-             sodipodi:r2="0.13229167"
-             sodipodi:r1="0.26458332"
-             sodipodi:cy="46.93256"
-             sodipodi:cx="-154.11101"
-             sodipodi:sides="5"
-             id="path927"
-             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             sodipodi:type="star" />
-        </g>
-        <g
-           transform="translate(4.2333283,0.26458412)"
-           id="g935">
-          <path
-             d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
-             sodipodi:open="true"
-             sodipodi:end="5.9707714"
-             sodipodi:start="6.1996015"
-             sodipodi:ry="0.66145831"
-             sodipodi:rx="0.66145831"
-             sodipodi:cy="47.553139"
-             sodipodi:cx="-154.11748"
-             sodipodi:type="arc"
-             id="path931"
-             style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <path
-             inkscape:transform-center-y="0.025264875"
-             inkscape:transform-center-x="-1.8433333e-006"
-             d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
-             inkscape:randomized="0"
-             inkscape:rounded="0"
-             inkscape:flatsided="false"
-             sodipodi:arg2="2.1991149"
-             sodipodi:arg1="1.5707963"
-             sodipodi:r2="0.13229167"
-             sodipodi:r1="0.26458332"
-             sodipodi:cy="46.93256"
-             sodipodi:cx="-154.11101"
-             sodipodi:sides="5"
-             id="path933"
-             style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             sodipodi:type="star" />
-        </g>
-      </g>
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path901"
+         sodipodi:type="arc"
+         sodipodi:cx="-154.11748"
+         sodipodi:cy="47.553139"
+         sodipodi:rx="0.66145831"
+         sodipodi:ry="0.66145831"
+         sodipodi:start="6.1996015"
+         sodipodi:end="5.9707714"
+         sodipodi:open="true"
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path903"
+         sodipodi:sides="5"
+         sodipodi:cx="-154.11101"
+         sodipodi:cy="46.93256"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:transform-center-x="-1.8433333e-006"
+         inkscape:transform-center-y="0.025264875" />
+    </g>
+    <g
+       transform="rotate(28.777511,-112.49123,168.91883)"
+       id="g911">
+      <path
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
+         sodipodi:open="true"
+         sodipodi:end="5.9707714"
+         sodipodi:start="6.1996015"
+         sodipodi:ry="0.66145831"
+         sodipodi:rx="0.66145831"
+         sodipodi:cy="47.553139"
+         sodipodi:cx="-154.11748"
+         sodipodi:type="arc"
+         id="path907"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264875"
+         inkscape:transform-center-x="-1.8433333e-006"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="46.93256"
+         sodipodi:cx="-154.11101"
+         sodipodi:sides="5"
+         id="path909"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g917"
+       transform="rotate(28.777511,-113.40377,170.33353)">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path913"
+         sodipodi:type="arc"
+         sodipodi:cx="-154.11748"
+         sodipodi:cy="47.553139"
+         sodipodi:rx="0.66145831"
+         sodipodi:ry="0.66145831"
+         sodipodi:start="6.1996015"
+         sodipodi:end="5.9707714"
+         sodipodi:open="true"
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path915"
+         sodipodi:sides="5"
+         sodipodi:cx="-154.11101"
+         sodipodi:cy="46.93256"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:transform-center-x="-1.8433333e-006"
+         inkscape:transform-center-y="0.025264875" />
+    </g>
+    <g
+       id="g923"
+       transform="rotate(28.777511,-114.32981,173.94316)">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path919"
+         sodipodi:type="arc"
+         sodipodi:cx="-154.11748"
+         sodipodi:cy="47.553139"
+         sodipodi:rx="0.66145831"
+         sodipodi:ry="0.66145831"
+         sodipodi:start="6.1996015"
+         sodipodi:end="5.9707714"
+         sodipodi:open="true"
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path921"
+         sodipodi:sides="5"
+         sodipodi:cx="-154.11101"
+         sodipodi:cy="46.93256"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:transform-center-x="-1.8433333e-006"
+         inkscape:transform-center-y="0.025264875" />
+    </g>
+    <g
+       transform="rotate(28.777511,-114.4486,172.26388)"
+       id="g929">
+      <path
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
+         sodipodi:open="true"
+         sodipodi:end="5.9707714"
+         sodipodi:start="6.1996015"
+         sodipodi:ry="0.66145831"
+         sodipodi:rx="0.66145831"
+         sodipodi:cy="47.553139"
+         sodipodi:cx="-154.11748"
+         sodipodi:type="arc"
+         id="path925"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264875"
+         inkscape:transform-center-x="-1.8433333e-006"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="46.93256"
+         sodipodi:cx="-154.11101"
+         sodipodi:sides="5"
+         id="path927"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       transform="rotate(28.777511,-115.11006,174.84219)"
+       id="g935">
+      <path
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731"
+         sodipodi:open="true"
+         sodipodi:end="5.9707714"
+         sodipodi:start="6.1996015"
+         sodipodi:ry="0.66145831"
+         sodipodi:rx="0.66145831"
+         sodipodi:cy="47.553139"
+         sodipodi:cx="-154.11748"
+         sodipodi:type="arc"
+         id="path931"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264875"
+         inkscape:transform-center-x="-1.8433333e-006"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="46.93256"
+         sodipodi:cx="-154.11101"
+         sodipodi:sides="5"
+         id="path933"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
     </g>
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-wateringCan.png"
        ry="5.1085749"
        y="32.416664"
        x="-126.99998"
@@ -508,17 +499,17 @@
        id="rect941"
        style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-wateringCan.png"
        id="path943"
        d="m -105.97696,49.664151 a 22.489584,22.489584 0 0 1 -7.2838,2.373498 22.489584,22.489584 0 0 1 -13.59451,-2.369363 c 0.53551,2.249655 2.54587,3.915006 4.96403,3.915006 h 10.94921 c 2.41965,0 4.43105,-1.667375 4.96507,-3.919141 z"
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-wateringCan.png"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect945"
        width="18.520834"
@@ -527,17 +518,17 @@
        y="33.739574"
        ry="4.4700055" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-wateringCan.png"
        id="path947"
        d="m -107.15622,45.572928 a 17.197916,17.197916 0 0 1 -6.84713,2.548681 17.197916,17.197916 0 0 1 -11.6737,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.58081 c 2.47638,0 4.47001,-1.993627 4.47001,-4.470011 z"
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <g
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_wateringCan.png"
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-wateringCan.png"
        transform="translate(31.750013,-1.3229167)"
        id="g963">
       <rect
@@ -587,9 +578,9 @@
          style="fill:url(#linearGradient967);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       inkscape:export-ydpi="107.99996"
+       inkscape:export-xdpi="107.99996"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shovel.png"
        ry="5.1085749"
        y="32.416664"
        x="-153.45831"
@@ -598,17 +589,17 @@
        id="rect969"
        style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       inkscape:export-ydpi="107.99996"
+       inkscape:export-xdpi="107.99996"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shovel.png"
        id="path971"
        d="m -132.43531,49.664151 a 22.489584,22.489584 0 0 1 -7.2838,2.373498 22.489584,22.489584 0 0 1 -13.59451,-2.369363 c 0.53551,2.249655 2.54587,3.915006 4.96403,3.915006 h 10.94921 c 2.41965,0 4.43105,-1.667375 4.96507,-3.919141 z"
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <rect
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       inkscape:export-ydpi="107.99996"
+       inkscape:export-xdpi="107.99996"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shovel.png"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect973"
        width="18.520834"
@@ -617,17 +608,17 @@
        y="33.739574"
        ry="4.4700055" />
     <path
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       inkscape:export-ydpi="107.99996"
+       inkscape:export-xdpi="107.99996"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shovel.png"
        id="path975"
        d="m -133.61457,45.572928 a 17.197916,17.197916 0 0 1 -6.84713,2.548681 17.197916,17.197916 0 0 1 -11.6737,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.58081 c 2.47638,0 4.47001,-1.993627 4.47001,-4.470011 z"
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <g
-       inkscape:export-ydpi="76.800003"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-filename="G:\Uni\farm-facts\assets\sprites\button_shovel.png"
+       inkscape:export-ydpi="107.99996"
+       inkscape:export-xdpi="107.99996"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shovel.png"
        id="g983"
        transform="translate(26.458334)">
       <path
@@ -660,17 +651,17 @@
        x="-47.624992"
        y="32.416664"
        ry="5.1085749"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="108.00001"
+       inkscape:export-ydpi="108.00001" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -26.601952,49.664151 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594501,-2.369363 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
        id="path1606"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="108.00001"
+       inkscape:export-ydpi="108.00001" />
     <rect
        ry="4.4700055"
        y="33.739574"
@@ -679,22 +670,22 @@
        width="18.520834"
        id="rect1608"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="108.00001"
+       inkscape:export-ydpi="108.00001" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -27.781212,45.572928 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
        id="path1610"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="108.00001"
+       inkscape:export-ydpi="108.00001" />
     <g
        id="g1631"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-shop.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003">
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-shop.png"
+       inkscape:export-xdpi="108.00001"
+       inkscape:export-ydpi="108.00001">
       <rect
          y="40.354168"
          x="-42.333332"
@@ -731,17 +722,17 @@
        x="-21.166658"
        y="32.416664"
        ry="5.1085749"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M -0.14361763,49.664151 A 22.489584,22.489584 0 0 1 -7.4274143,52.037649 22.489584,22.489584 0 0 1 -21.021915,49.668286 c 0.535507,2.249655 2.545867,3.915006 4.964027,3.915006 h 10.9492037 c 2.4196467,0 4.43104667,-1.667375 4.96506667,-3.919141 z"
        id="path902"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <rect
        ry="4.4700055"
        y="33.739574"
@@ -750,23 +741,23 @@
        width="18.520834"
        id="rect904"
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -1.3228776,45.572928 a 17.197916,17.197916 0 0 1 -6.8471267,2.548681 17.197916,17.197916 0 0 1 -11.6736937,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.5808037 c 2.4763767,0 4.4700067,-1.993627 4.4700067,-4.470011 z"
        id="path906"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <g
        id="g928"
        transform="rotate(-45,11.565784,73.889102)"
-       inkscape:export-filename="C:\Users\Student\Documents\Uni\Independent Studies\farm-facts\assets\sprites\button-sickle.png"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003">
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-sickle.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
       <path
          sodipodi:nodetypes="csccccc"
          inkscape:connector-curvature="0"
@@ -781,6 +772,797 @@
          width="9.260417"
          id="rect924"
          style="opacity:1;fill:#c87137;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       transform="translate(-26.458334)"
+       inkscape:export-ydpi="108.00007"
+       inkscape:export-xdpi="108.00007"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-hilight.png"
+       clip-path="none"
+       mask="url(#mask981)"
+       ry="5.1085749"
+       y="32.416664"
+       x="-179.91667"
+       height="21.166666"
+       width="21.166666"
+       id="rect1640"
+       style="fill:#cdffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter941)" />
+    <rect
+       style="fill:#cdffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter941)"
+       id="rect1642"
+       width="21.166666"
+       height="21.166666"
+       x="-179.91667"
+       y="32.416664"
+       ry="5.1085749"
+       mask="url(#mask981)"
+       clip-path="none"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-hilight.png"
+       inkscape:export-xdpi="108.00007"
+       inkscape:export-ydpi="108.00007"
+       transform="translate(-26.458334)" />
+    <rect
+       transform="translate(-26.458334)"
+       inkscape:export-ydpi="108.00007"
+       inkscape:export-xdpi="108.00007"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-hilight.png"
+       clip-path="none"
+       mask="url(#mask981)"
+       ry="5.1085749"
+       y="32.416664"
+       x="-179.91667"
+       height="21.166666"
+       width="21.166666"
+       id="rect1644"
+       style="fill:#cdffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter941)" />
+    <rect
+       style="fill:#cdffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter941)"
+       id="rect1646"
+       width="21.166666"
+       height="21.166666"
+       x="-179.91667"
+       y="32.416664"
+       ry="5.1085749"
+       mask="url(#mask981)"
+       clip-path="none"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-hilight.png"
+       inkscape:export-xdpi="108.00007"
+       inkscape:export-ydpi="108.00007"
+       transform="translate(-26.458334)" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1555"
+       width="21.166666"
+       height="21.166666"
+       x="-100.54166"
+       y="57.55209"
+       ry="5.1085749"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-beans.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -79.518634,74.799578 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594499,-2.369363 c 0.53551,2.249655 2.545865,3.915006 4.964025,3.915006 h 10.949204 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
+       id="path1557"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-beans.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       ry="4.4700055"
+       y="58.875"
+       x="-99.21875"
+       height="18.520842"
+       width="18.520834"
+       id="rect1559"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-beans.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -80.697894,70.708355 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476384 1.99363,4.470011 4.47001,4.470011 h 9.580804 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
+       id="path1561"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-beans.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1563"
+       width="7.9375"
+       height="11.90625"
+       x="-49.917435"
+       y="97.06617"
+       transform="rotate(28.777511)" />
+    <path
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -90.481001,61.047352 6.957185,3.821189 -1.796399,0.522665 -4.638118,-2.547456 z"
+       id="path1565"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -90.705432,68.07575 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       id="path1628"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1634"
+       d="m -90.082715,68.566208 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -89.553548,69.095375 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       id="path1636"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1638"
+       d="m -89.024381,69.624541 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -88.495215,70.153708 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       id="path1640"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1642"
+       d="m -91.141048,67.507875 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -91.670215,66.978708 c -0.374178,0.374177 -0.374251,0.374015 -0.582825,0.588673 -0.227378,0.252414 -0.329053,0.449605 -0.231668,0.44945 0.09738,-1.55e-4 0.352273,-0.205307 0.598901,-0.449817 0.215919,-0.214078 0.40268,-0.401217 0.40268,-0.401217 0,0 0.187139,-0.186762 0.401217,-0.402681 0.24451,-0.246627 0.449662,-0.501519 0.449818,-0.5989 1.55e-4,-0.09739 -0.197036,0.0043 -0.449451,0.231668 -0.214658,0.208574 -0.214495,0.208647 -0.588672,0.582824 z"
+       id="path1644"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1646"
+       d="m -91.439808,67.302487 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -90.876465,68.037041 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       id="path1648"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1650"
+       d="m -90.347298,68.566208 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -89.818131,69.095375 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       id="path1652"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1654"
+       d="m -89.288965,69.624541 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -88.759798,70.153708 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       id="path1656"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1658"
+       d="m -92.199381,66.714125 c -0.136959,0.511135 -0.137103,0.511032 -0.210404,0.801218 -0.07071,0.332286 -0.06017,0.553896 0.02409,0.505069 0.08426,-0.04882 0.202424,-0.353938 0.293755,-0.689004 0.07995,-0.293356 0.148123,-0.548804 0.148123,-0.548804 0,0 0.06869,-0.25531 0.146123,-0.54934 0.08844,-0.33584 0.13866,-0.659159 0.0901,-0.743572 -0.04856,-0.08442 -0.168488,0.102242 -0.273402,0.425356 -0.08161,0.28796 -0.08143,0.287941 -0.218393,0.799077 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3758"
+       width="21.166666"
+       height="21.166666"
+       x="-100.54166"
+       y="82.6875"
+       ry="5.1085749"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -79.518641,99.934992 a 22.489584,22.489584 0 0 1 -7.283797,2.373498 22.489584,22.489584 0 0 1 -13.594502,-2.369363 c 0.535509,2.249663 2.545868,3.915013 4.964028,3.915013 h 10.949204 c 2.419647,0 4.431047,-1.66738 4.965067,-3.919148 z"
+       id="path3760"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       ry="4.4700055"
+       y="84.010414"
+       x="-99.21875"
+       height="18.520842"
+       width="18.520834"
+       id="rect3762"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -80.697901,95.843769 a 17.197916,17.197916 0 0 1 -6.847127,2.548681 17.197916,17.197916 0 0 1 -11.673694,-2.544545 v 2.2133 c 0,2.476385 1.99363,4.470015 4.47001,4.470015 h 9.580804 c 2.476377,0 4.470007,-1.99363 4.470007,-4.470015 z"
+       id="path3764"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3766"
+       width="7.9375"
+       height="11.90625"
+       x="-37.749336"
+       y="119.03143"
+       transform="rotate(28.777511)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -90.390006,86.15765 6.957185,3.82119 -1.796399,0.522665 -4.638118,-2.547456 z"
+       id="path3768"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <g
+       id="g3870"
+       transform="translate(-16.767985,-0.96623741)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         id="path3866"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3868"
+         sodipodi:sides="5"
+         sodipodi:cx="-74.748367"
+         sodipodi:cy="91.9888"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:transform-center-y="0.025264305" />
+    </g>
+    <g
+       transform="translate(-15.445068,0.09209592)"
+       id="g3876"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3872"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264305"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="91.9888"
+         sodipodi:cx="-74.748367"
+         sodipodi:sides="5"
+         id="path3874"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g3882"
+       transform="translate(-14.122151,1.1504293)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         id="path3878"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3880"
+         sodipodi:sides="5"
+         sodipodi:cx="-74.748367"
+         sodipodi:cy="91.9888"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:transform-center-y="0.025264305" />
+    </g>
+    <g
+       transform="rotate(60,-82.598979,82.278125)"
+       id="g3888"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3884"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264305"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="91.9888"
+         sodipodi:cx="-74.748367"
+         sodipodi:sides="5"
+         id="path3886"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g3894"
+       transform="rotate(60,-83.925474,79.71736)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         id="path3890"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3892"
+         sodipodi:sides="5"
+         sodipodi:cx="-74.748367"
+         sodipodi:cy="91.9888"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:transform-center-y="0.025264305" />
+    </g>
+    <g
+       transform="rotate(60,-83.538097,78.271649)"
+       id="g3900"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-strawberries.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3896"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264305"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="91.9888"
+         sodipodi:cx="-74.748367"
+         sodipodi:sides="5"
+         id="path3898"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       ry="5.1085749"
+       y="107.82292"
+       x="-100.54166"
+       height="21.166666"
+       width="21.166666"
+       id="rect3902"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       id="path3904"
+       d="m -79.518641,125.07041 a 22.489584,22.489584 0 0 1 -7.283797,2.3735 22.489584,22.489584 0 0 1 -13.594502,-2.36936 c 0.535509,2.24966 2.545868,3.91501 4.964028,3.91501 h 10.949204 c 2.419647,0 4.431047,-1.66738 4.965067,-3.91915 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3906"
+       width="18.520834"
+       height="18.520842"
+       x="-99.21875"
+       y="109.14584"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       id="path3908"
+       d="m -80.697901,120.97919 a 17.197916,17.197916 0 0 1 -6.847127,2.54868 17.197916,17.197916 0 0 1 -11.673694,-2.54455 v 2.2133 c 0,2.47639 1.99363,4.47002 4.47001,4.47002 h 9.580804 c 2.476377,0 4.470007,-1.99363 4.470007,-4.47002 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       transform="rotate(28.777511)"
+       y="141.06252"
+       x="-25.648903"
+       height="11.90625"
+       width="7.9375"
+       id="rect3910"
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3912"
+       d="m -90.390006,111.29307 6.957185,3.82119 -1.796399,0.52266 -4.638118,-2.54745 z"
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g3960"
+       transform="rotate(60,-83.50872,103.30794)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <circle
+         style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3954"
+         cx="-74.744789"
+         cy="117.74479"
+         r="0.66145831" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3956"
+         cx="-74.747162"
+         cy="117.47731"
+         r="0.39687499" />
+    </g>
+    <g
+       transform="translate(-13.535873,2.278301)"
+       id="g3966"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <circle
+         r="0.66145831"
+         cy="117.74479"
+         cx="-74.744789"
+         id="circle3962"
+         style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39687499"
+         cy="117.47731"
+         cx="-74.747162"
+         id="circle3964"
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3972"
+       transform="rotate(30,-86.059794,88.35471)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <circle
+         style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3968"
+         cx="-74.744789"
+         cy="117.74479"
+         r="0.66145831" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3970"
+         cx="-74.747162"
+         cy="117.47731"
+         r="0.39687499" />
+    </g>
+    <g
+       transform="rotate(30,-86.178128,91.037528)"
+       id="g3978"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-cauliflower.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <circle
+         r="0.66145831"
+         cy="117.74479"
+         cx="-74.744789"
+         id="circle3974"
+         style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39687499"
+         cy="117.47731"
+         cx="-74.747162"
+         id="circle3976"
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3980"
+       width="21.166666"
+       height="21.166666"
+       x="-100.54166"
+       y="132.95833"
+       ry="5.1085749"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -79.518641,150.20582 a 22.489584,22.489584 0 0 1 -7.283797,2.3735 22.489584,22.489584 0 0 1 -13.594502,-2.36936 c 0.535509,2.24966 2.545868,3.91501 4.964028,3.91501 h 10.949204 c 2.419647,0 4.431047,-1.66738 4.965067,-3.91915 z"
+       id="path3982"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       ry="4.4700055"
+       y="134.28125"
+       x="-99.21875"
+       height="18.520842"
+       width="18.520834"
+       id="rect3984"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -80.697901,146.1146 a 17.197916,17.197916 0 0 1 -6.847127,2.54868 17.197916,17.197916 0 0 1 -11.673694,-2.54455 v 2.2133 c 0,2.47639 1.99363,4.47002 4.47001,4.47002 h 9.580804 c 2.476377,0 4.470007,-1.99363 4.470007,-4.47002 z"
+       id="path3986"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3988"
+       width="7.9375"
+       height="11.90625"
+       x="-13.548475"
+       y="163.0936"
+       transform="rotate(28.777511)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -90.390006,136.42848 6.957185,3.82119 -1.796399,0.52266 -4.638118,-2.54745 z"
+       id="path3990"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <g
+       id="g4035"
+       transform="translate(-15.875002,-0.27586333)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -74.083331,143.81753 c -10e-7,1.09594 -0.296145,1.04706 -0.661458,1.04706 -0.365313,0 -0.661457,0.0489 -0.661458,-1.04706 -1e-6,-1.09594 0.296144,-2.92169 0.661458,-2.92169 0.365314,0 0.661459,1.82575 0.661458,2.92169 z"
+         id="path4029"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscs" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -73.81875,143.54167 c 0,0.73063 -0.383041,1.32291 -0.529167,1.32291 -0.146125,0 -0.263104,0.0819 -0.263104,-0.6487 10e-7,-0.73063 0.381562,-1.99712 0.527687,-1.99712 0.146125,0 0.264583,0.59228 0.264584,1.32291 z"
+         id="path4031"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscs" />
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path4033"
+         d="m -75.670833,143.54167 c 0,0.73063 0.38304,1.32291 0.529166,1.32291 0.146125,0 0.263105,0.123 0.263105,-0.60759 -10e-7,-0.73063 -0.381562,-2.03823 -0.527687,-2.03823 -0.146125,0 -0.264583,0.59228 -0.264584,1.32291 z"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="rotate(45,-84.220181,127.43659)"
+       id="g4043"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path4037"
+         d="m -74.083331,143.81753 c -10e-7,1.09594 -0.296145,1.04706 -0.661458,1.04706 -0.365313,0 -0.661457,0.0489 -0.661458,-1.04706 -1e-6,-1.09594 0.296144,-2.92169 0.661458,-2.92169 0.365314,0 0.661459,1.82575 0.661458,2.92169 z"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path4039"
+         d="m -73.81875,143.54167 c 0,0.73063 -0.383041,1.32291 -0.529167,1.32291 -0.146125,0 -0.263104,0.0819 -0.263104,-0.6487 10e-7,-0.73063 0.381562,-1.99712 0.527687,-1.99712 0.146125,0 0.264583,0.59228 0.264584,1.32291 z"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -75.670833,143.54167 c 0,0.73063 0.38304,1.32291 0.529166,1.32291 0.146125,0 0.263105,0.123 0.263105,-0.60759 -10e-7,-0.73063 -0.381562,-2.03823 -0.527687,-2.03823 -0.146125,0 -0.264583,0.59228 -0.264584,1.32291 z"
+         id="path4041"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscs" />
+    </g>
+    <g
+       id="g4051"
+       transform="rotate(30,-86.825728,114.74771)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-corn.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -74.083331,143.81753 c -10e-7,1.09594 -0.296145,1.04706 -0.661458,1.04706 -0.365313,0 -0.661457,0.0489 -0.661458,-1.04706 -1e-6,-1.09594 0.296144,-2.92169 0.661458,-2.92169 0.365314,0 0.661459,1.82575 0.661458,2.92169 z"
+         id="path4045"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscs" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -73.81875,143.54167 c 0,0.73063 -0.383041,1.32291 -0.529167,1.32291 -0.146125,0 -0.263104,0.0819 -0.263104,-0.6487 10e-7,-0.73063 0.381562,-1.99712 0.527687,-1.99712 0.146125,0 0.264583,0.59228 0.264584,1.32291 z"
+         id="path4047"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscs" />
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path4049"
+         d="m -75.670833,143.54167 c 0,0.73063 0.38304,1.32291 0.529166,1.32291 0.146125,0 0.263105,0.123 0.263105,-0.60759 -10e-7,-0.73063 -0.381562,-2.03823 -0.527687,-2.03823 -0.146125,0 -0.264583,0.59228 -0.264584,1.32291 z"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="102.19956"
+       inkscape:export-xdpi="102.19956"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-corn.png"
+       transform="translate(2.9104163,-3.3333333e-6)"
+       id="g4059">
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path4053"
+         d="m -74.083331,143.81753 c -10e-7,1.09594 -0.296145,1.04706 -0.661458,1.04706 -0.365313,0 -0.661457,0.0489 -0.661458,-1.04706 -1e-6,-1.09594 0.296144,-2.92169 0.661458,-2.92169 0.365314,0 0.661459,1.82575 0.661458,2.92169 z"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path4055"
+         d="m -73.81875,143.54167 c 0,0.73063 -0.383041,1.32291 -0.529167,1.32291 -0.146125,0 -0.263104,0.0819 -0.263104,-0.6487 10e-7,-0.73063 0.381562,-1.99712 0.527687,-1.99712 0.146125,0 0.264583,0.59228 0.264584,1.32291 z"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -75.670833,143.54167 c 0,0.73063 0.38304,1.32291 0.529166,1.32291 0.146125,0 0.263105,0.123 0.263105,-0.60759 -10e-7,-0.73063 -0.381562,-2.03823 -0.527687,-2.03823 -0.146125,0 -0.264583,0.59228 -0.264584,1.32291 z"
+         id="path4057"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscs" />
+    </g>
+    <g
+       inkscape:export-ydpi="255.5347"
+       inkscape:export-xdpi="255.5347"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-cauliflower.png"
+       transform="translate(1.4551272,2.7817446)"
+       id="g4065">
+      <circle
+         r="0.66145831"
+         cy="117.74479"
+         cx="-74.744789"
+         id="circle4061"
+         style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39687499"
+         cy="117.47731"
+         cx="-74.747162"
+         id="circle4063"
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="271.64301"
+       inkscape:export-xdpi="271.64301"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-strawberries.png"
+       transform="translate(0.12291766,0.1419392)"
+       id="g4071">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4067"
+         d="m -74.083331,92.341938 c 0,0.365313 -0.296145,0.928895 -0.661458,0.928895 -0.365313,0 -0.661458,-0.563582 -0.661458,-0.928895 0,-0.365313 0.296145,-0.394021 0.661458,-0.394021 0.365313,0 0.661458,0.02871 0.661458,0.394021 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="0.025264305"
+         d="m -74.748367,92.253383 -0.07776,-0.157557 -0.173875,-0.02527 0.125817,-0.122641 -0.0297,-0.173172 0.155518,0.08176 0.155518,-0.08176 -0.0297,0.173172 0.125816,0.122641 -0.173874,0.02527 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="0.13229167"
+         sodipodi:r1="0.26458332"
+         sodipodi:cy="91.9888"
+         sodipodi:cx="-74.748367"
+         sodipodi:sides="5"
+         id="path4069"
+         style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4104"
+       d="m -74.176863,70.555408 c -0.374179,0.374177 -0.374252,0.374015 -0.58285,0.588648 -0.22738,0.252412 -0.329055,0.449602 -0.231668,0.44945 0.09738,-1.56e-4 0.352273,-0.205307 0.598901,-0.449816 0.215918,-0.21408 0.402656,-0.401242 0.402656,-0.401242 0,0 0.187139,-0.186762 0.401242,-0.402656 0.244508,-0.24663 0.449661,-0.501521 0.449818,-0.5989 1.55e-4,-0.09738 -0.197036,0.0043 -0.449451,0.231668 -0.214657,0.208575 -0.214471,0.208672 -0.588648,0.582848 z"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g4149"
+       transform="rotate(-1.222489,132.90743,-3545.8725)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-tomatoes.png"
+       inkscape:export-xdpi="271.052"
+       inkscape:export-ydpi="271.052">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4145"
+         sodipodi:type="arc"
+         sodipodi:cx="-154.11748"
+         sodipodi:cy="47.553139"
+         sodipodi:rx="0.66145831"
+         sodipodi:ry="0.66145831"
+         sodipodi:start="6.1996015"
+         sodipodi:end="5.9707714"
+         sodipodi:open="true"
+         d="m -153.45833,47.497916 a 0.66145831,0.66145831 0 0 1 -0.56633,0.710136 0.66145831,0.66145831 0 0 1 -0.74135,-0.524799 0.66145831,0.66145831 0 0 1 0.48155,-0.770149 0.66145831,0.66145831 0 0 1 0.79642,0.436731" />
+      <path
+         sodipodi:type="star"
+         style="fill:#008000;fill-opacity:0.99497483;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4147"
+         sodipodi:sides="5"
+         sodipodi:cx="-154.11101"
+         sodipodi:cy="46.93256"
+         sodipodi:r1="0.26458332"
+         sodipodi:r2="0.13229167"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.1991149"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
+         inkscape:transform-center-x="-1.8433333e-006"
+         inkscape:transform-center-y="0.025264875" />
     </g>
   </g>
 </svg>

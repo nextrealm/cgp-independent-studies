@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.172412"
-     inkscape:cx="327.31667"
-     inkscape:cy="755.90551"
+     inkscape:zoom="2.344824"
+     inkscape:cx="470.28286"
+     inkscape:cy="386.69516"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3323,5 +3323,2689 @@
        style="fill:#ff0000;stroke:#d40000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-xdpi="62.57"
        inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000080;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -17.320508,26.999998 0,17 17.320507,26.999998 0,37 -17.320508,26.999998"
+       id="path4508-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -17.320508,26.999998 0,17 l 4.330126,2.5 -17.320509,9.999998 -4.330125,-2.5"
+       id="path4516-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4518-5"
+       d="M -8.6602549,32 8.660253,22 l 4.330125,2.5 -17.3205079,10 -4.330125,-2.5"
+       style="fill:#00ffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1771"
+       d="M 25.980762,26.999998 43.30127,17 60.621777,26.999998 43.30127,37 25.980762,26.999998"
+       style="fill:#000080;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\water.png" />
+    <path
+       style="fill:#00ffff;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25.980762,26.999999 28.145826,25.75 34.641017,27 36.80608,30.75 43.301271,32 45.466334,35.749999 43.301269,37 Z"
+       id="path1773"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\water.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ffff;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.136207,18.25 2.165062,-1.25 17.320508,9.999999 -2.165064,1.25 L 56.291651,24.5 49.796461,23.25 47.631397,19.5 Z"
+       id="path1775"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\water.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ffff;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.475953,23.25 6.49519,1.25 2.165064,3.749999 6.49519,1.25 2.165064,3.75 4.330126,-2.5 -2.165064,-3.75 L 45.466333,25.75 43.301269,22 36.806079,20.75 Z"
+       id="path1777"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\water.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1755"
+       d="M 69.282034,162 86.602542,152 103.92305,162 86.602542,172 69.282034,162"
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.282034,162 17.320508,-10 4.330127,2.5 -17.320508,10 z"
+       id="path1757"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1759"
+       d="m 77.942288,167 17.320508,-9.99999 4.330127,2.5 L 82.272415,169.5 Z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1761"
+       d="m 71.447096,163.25 17.320509,-9.99999 2.165064,1.25 L 73.612161,164.5 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.777223,165.75 17.320509,-9.99999 2.165064,1.25 L 77.942288,167 Z"
+       id="path1763"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1765"
+       d="m 80.10735,168.25 17.320509,-9.99999 2.165064,1.25 L 82.272415,169.5 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 84.437477,170.75 17.320513,-9.99999 2.16506,1.25 L 86.602542,172 Z"
+       id="path1767"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.5833,162 17.32051,-10 17.32051,10 -17.32051,10 -17.32051,-10"
+       id="path1802"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1804"
+       d="m 112.5833,162 17.32051,-10 4.33013,2.5 -17.32051,10 z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.24356,167 17.3205,-9.99999 4.33013,2.5 -17.32051,9.99999 z"
+       id="path1806"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.74836,163.25 17.32051,-9.99999 2.16507,1.25 -17.32051,9.99999 z"
+       id="path1808"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1810"
+       d="m 119.07849,165.75 17.32051,-9.99999 2.16506,1.25 L 121.24356,167 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.40862,168.25 17.32051,-9.99999 2.16506,1.25 -17.32051,9.99999 z"
+       id="path1812"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path1814"
+       d="m 127.73875,170.75 17.32051,-9.99999 2.16506,1.25 L 129.90381,172 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.736517,170 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2106"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2108"
+       d="m 81.40639,167.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.066644,167.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2110"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2112"
+       d="m 85.736517,165 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2114"
+       d="m 94.396771,165 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.066644,162.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2116"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2118"
+       d="m 98.726898,162.5 v -1 l 0.866023,-0.5 0.866029,0.5 v 1 l -0.866029,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.396771,160 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2120"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2122"
+       d="m 77.076263,165 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.746136,162.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2124"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2126"
+       d="m 81.40639,162.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.076263,160 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2128"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.736517,160 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2130"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2132"
+       d="m 81.40639,157.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.066644,157.5 v -1 l 0.866023,-0.5 0.866029,0.5 v 1 l -0.866029,0.5 z"
+       id="path2134"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2136"
+       d="m 85.736517,155 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2138"
+       d="m 85.736517,170 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.40639,167.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2140"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2142"
+       d="m 90.066644,167.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.736517,165 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2144"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.396771,165 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2146"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2148"
+       d="m 90.066644,162.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.726898,162.5 v -1 l 0.866023,-0.5 0.866029,0.5 v 1 l -0.866029,0.5 z"
+       id="path2150"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2152"
+       d="m 94.396771,160 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.076263,165 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2154"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2156"
+       d="m 72.746136,162.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.40639,162.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2158"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2160"
+       d="m 77.076263,160 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2162"
+       d="m 85.736517,160 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.40639,157.5 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2164"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2166"
+       d="m 90.066644,157.5 v -1 l 0.866023,-0.5 0.866029,0.5 v 1 l -0.866029,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.736517,155 v -1 l 0.866023,-0.5 0.866026,0.5 v 1 l -0.866026,0.5 z"
+       id="path2168"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.4708,169.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2172"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.03778,170 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 0,-0.5 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2170"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2174"
+       d="m 133.80093,166.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2176"
+       d="m 133.36791,167.5 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.13105,164.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2178"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.69803,165 v -1 l 0.43301,-0.25 10e-6,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2180"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2182"
+       d="m 142.46119,161.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 L 142.8942,162 Z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2184"
+       d="m 142.02817,162.5 v -1 l 0.43301,-0.25 10e-6,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2186"
+       d="m 125.14067,166.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2188"
+       d="m 124.70765,167.5 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.4708,164.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2190"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.03778,165 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2192"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2194"
+       d="m 133.80092,161.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2196"
+       d="m 133.3679,162.5 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.13106,159.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2198"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.69804,160 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2200"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2202"
+       d="m 120.81055,164.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2204"
+       d="m 120.37753,165 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.14068,161.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2206"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.70766,162.5 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2208"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2210"
+       d="m 129.4708,159.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2212"
+       d="m 129.03778,160 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.80094,156.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2214"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.36792,157.5 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2216"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.48042,161.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2218"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.0474,162.5 v -1 l 0.43301,-0.25 10e-6,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2220"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2222"
+       d="m 120.81055,159.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2224"
+       d="m 120.37753,160 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.14067,156.75 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       id="path2226"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.70765,157.5 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       id="path2228"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2230"
+       d="m 129.47081,154.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l -0.43301,0.25 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#cccccc;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2232"
+       d="m 129.03779,155 v -1 l 0.43301,-0.25 1e-5,0.5 0.43301,0.25 0.43301,-0.25 v -0.5 l 0.43301,0.25 v 1 l -0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\cauliflower_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 69.282032,187 86.60254,177 103.92305,187 86.60254,197 69.282032,187"
+       id="path2234"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2236"
+       d="m 69.282032,187 17.320508,-10 4.330127,2.5 -17.320508,10 z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.942286,192 17.320508,-9.99999 4.330127,2.5 L 82.272413,194.5 Z"
+       id="path2238"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.447094,188.25 17.320509,-9.99999 2.165064,1.25 L 73.612159,189.5 Z"
+       id="path2240"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2242"
+       d="m 75.777221,190.75 17.320509,-9.99999 2.165064,1.25 L 77.942286,192 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.107348,193.25 17.320509,-9.99999 2.165064,1.25 L 82.272413,194.5 Z"
+       id="path2244"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2246"
+       d="m 84.437475,195.75 17.320515,-9.99999 2.16506,1.25 L 86.60254,197 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 90.932666,193 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       id="path2312"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2314"
+       d="m 86.60254,195.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2316"
+       d="m 99.592919,188 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433011,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.262793,190.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       id="path2318"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2320"
+       d="m 86.602539,190.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.272413,193 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       id="path2322"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.262792,185.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433011,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       id="path2324"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2326"
+       d="m 90.932666,188 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2328"
+       d="m 82.272412,188 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.942286,190.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       id="path2330"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.932665,183 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433011,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       id="path2332"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2334"
+       d="m 86.602539,185.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.942285,185.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       id="path2336"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2338"
+       d="m 73.612159,188 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2340"
+       d="m 86.602538,180.5 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433011,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.272412,183 -1.73205,-1 0.866026,-0.5 0.433012,0.25 v -0.5 l 0.433012,-0.25 0.433014,0.25 v 0.5 l 0.433012,-0.25 0.866026,0.5 z"
+       id="path2342"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2344"
+       d="m 112.5833,187 17.32051,-10 17.32051,10 -17.32051,10 -17.32051,-10"
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.5833,187 17.32051,-10 4.33013,2.5 -17.32051,10 z"
+       id="path2346"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2348"
+       d="m 121.24356,192 17.3205,-9.99999 4.33013,2.5 -17.32051,9.99999 z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2350"
+       d="m 114.74836,188.25 17.32051,-9.99999 2.16507,1.25 -17.32051,9.99999 z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.07849,190.75 17.32051,-9.99999 2.16506,1.25 L 121.24356,192 Z"
+       id="path2352"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2354"
+       d="m 123.40862,193.25 17.32051,-9.99999 2.16506,1.25 -17.32051,9.99999 z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.73874,195.75 17.32052,-9.99999 2.16506,1.25 L 129.90381,197 Z"
+       id="path2356"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2358"
+       d="m 134.23394,193 -1.73205,-1 0.86602,-0.5 0.43301,0.25 v -0.5 l 0.43302,-0.25 0.43301,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.90381,195.5 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       id="path2360"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.89419,188 -1.73205,-1 0.86602,-0.5 0.43302,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       id="path2362"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2364"
+       d="m 138.56406,190.5 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43302,0.25 v 0.5 l 0.43301,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.90381,190.5 -1.73205,-1 0.86602,-0.5 0.43302,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       id="path2366"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2368"
+       d="m 125.57368,193 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43302,0.25 v 0.5 l 0.43301,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2370"
+       d="m 138.56406,185.5 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.23394,188 -1.73205,-1 0.86602,-0.5 0.43301,0.25 v -0.5 l 0.43302,-0.25 0.43301,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       id="path2372"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.57368,188 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43302,0.25 v 0.5 l 0.43301,-0.25 0.86602,0.5 z"
+       id="path2374"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2376"
+       d="m 121.24356,190.5 -1.73205,-1 0.86602,-0.5 0.43301,0.25 v -0.5 l 0.43302,-0.25 0.43301,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2378"
+       d="m 134.23393,183 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43302,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.90381,185.5 -1.73205,-1 0.86602,-0.5 0.43302,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       id="path2380"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2382"
+       d="m 121.24355,185.5 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43302,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.91343,188 -1.73205,-1 0.86602,-0.5 0.43302,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43301,-0.25 0.86603,0.5 z"
+       id="path2384"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.90381,180.5 -1.73205,-1 0.86602,-0.5 0.43302,0.25 v -0.5 l 0.43301,-0.25 0.43301,0.25 v 0.5 l 0.43302,-0.25 0.86602,0.5 z"
+       id="path2386"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2388"
+       d="m 125.57368,183 -1.73205,-1 0.86603,-0.5 0.43301,0.25 v -0.5 l 0.43301,-0.25 0.43302,0.25 v 0.5 l 0.43301,-0.25 0.86602,0.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.4708,193.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2390"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2392"
+       d="m 128.17176,194.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.76984,194.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2394"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2396"
+       d="m 133.80093,191.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.50189,192 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2398"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2400"
+       d="m 135.09997,192 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2402"
+       d="m 138.13106,188.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.83202,189.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2404"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2406"
+       d="m 139.4301,189.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.46119,186.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2408"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2410"
+       d="m 141.16215,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.76023,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2412"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2414"
+       d="m 125.14068,191.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.84164,192 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2416"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2418"
+       d="m 126.43972,192 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.47081,188.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2420"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2422"
+       d="m 128.17177,189.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.76985,189.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2424"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.80094,186.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2426"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2428"
+       d="m 132.5019,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.09998,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2430"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2432"
+       d="m 138.13107,183.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.83203,184.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2434"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2436"
+       d="m 139.43011,184.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2438"
+       d="m 120.81055,188.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.51151,189.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2440"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2442"
+       d="m 122.10959,189.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.14068,186.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2444"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2446"
+       d="m 123.84164,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.43972,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2448"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.47081,183.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2450"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2452"
+       d="m 128.17177,184.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.76985,184.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2454"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2456"
+       d="m 133.80094,181.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.5019,182 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2458"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2460"
+       d="m 135.09998,182 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.48042,186.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2462"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2464"
+       d="m 115.18138,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.77946,187 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2466"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2468"
+       d="m 120.81055,183.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.51151,184.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2470"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2472"
+       d="m 122.10959,184.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2474"
+       d="m 125.14068,181.25 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.84164,182 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2476"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2478"
+       d="m 126.43972,182 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.47081,178.75 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2480"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2482"
+       d="m 128.17177,179.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#800000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.76985,179.5 0.43301,-0.25 0.43301,0.25 -0.43301,0.25 z"
+       id="path2484"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\strawberries_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 69.282032,222 86.60254,212 103.92305,222 86.60254,232 69.282032,222"
+       id="path2486"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2488"
+       d="m 69.282032,222 17.320508,-10 4.330127,2.5 -17.320508,10 z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.942286,227 17.320508,-9.99999 4.330127,2.5 L 82.272413,229.5 Z"
+       id="path2490"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.447094,223.25 17.320509,-9.99999 2.165064,1.25 L 73.612159,224.5 Z"
+       id="path2492"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2494"
+       d="m 75.777221,225.75 17.320509,-9.99999 2.165064,1.25 L 77.942286,227 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.107348,228.25 17.320509,-9.99999 2.165064,1.25 L 82.272413,229.5 Z"
+       id="path2496"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2498"
+       d="m 84.437475,230.75 17.320515,-9.99999 2.16506,1.25 L 86.60254,232 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 86.60254,215 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2564"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2566"
+       d="m 73.612159,222.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.942287,220 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2568"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2570"
+       d="m 82.272414,217.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2572"
+       d="m 90.932667,217.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.942286,225 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2574"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2576"
+       d="m 82.272414,222.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.602541,220 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2578"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2580"
+       d="m 95.262795,220 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.272414,227.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2582"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2584"
+       d="m 86.602542,225 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.932669,222.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2586"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.592922,222.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433008,0.25 v 2.5 z"
+       id="path2588"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2590"
+       d="m 86.602541,230 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.932669,227.5 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       id="path2592"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2594"
+       d="m 95.262796,225 -0.433015,-0.25 v -2.5 l 0.433015,-0.25 0.433012,0.25 v 2.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_1.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2596"
+       d="m 112.5833,222 17.32051,-10 17.32051,10 -17.32051,10 -17.32051,-10"
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.5833,222 17.32051,-10 4.33013,2.5 -17.32051,10 z"
+       id="path2598"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2600"
+       d="m 121.24356,227 17.32051,-9.99999 4.33012,2.5 -17.3205,9.99999 z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2602"
+       d="m 114.74837,223.25 17.32051,-9.99999 2.16506,1.25 -17.32051,9.99999 z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.07849,225.75 17.32051,-9.99999 2.16507,1.25 L 121.24356,227 Z"
+       id="path2604"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       inkscape:connector-curvature="0"
+       id="path2606"
+       d="m 123.40862,228.25 17.32051,-9.99999 2.16506,1.25 -17.3205,9.99999 z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="62.57"
+       inkscape:export-xdpi="62.57"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.73875,230.75 17.32051,-9.99999 2.16506,1.25 L 129.90381,232 Z"
+       id="path2608"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2610"
+       d="m 129.90381,215 -0.43301,-0.25 0,-7.5 0.43301,-0.25 0.43301,0.25 0,7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.57368,217.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2642"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2644"
+       d="m 121.24356,220 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.91343,222.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2646"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.23393,217.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2648"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2650"
+       d="m 129.9038,220 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.57368,222.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2652"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2654"
+       d="m 121.24355,225 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2656"
+       d="m 138.56407,220 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.23394,222.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2658"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2660"
+       d="m 129.90382,225 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.57369,227.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2662"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.89419,222.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2664"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2666"
+       d="m 138.56406,225 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.23394,227.5 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       id="path2668"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2670"
+       d="m 129.90381,230 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_2.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#784421;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155.88457,222 17.32051,-10 17.32051,10 -17.32051,10 -17.32051,-10"
+       id="path2672"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2674"
+       d="m 155.88457,222 17.32051,-10 4.33013,2.5 -17.32051,10 z"
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#a05a2c;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 164.54483,227 17.32051,-9.99999 4.33012,2.5 -17.3205,9.99999 z"
+       id="path2676"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.04964,223.25 17.32051,-9.99999 2.16506,1.25 L 160.2147,224.5 Z"
+       id="path2678"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2680"
+       d="m 162.37976,225.75 17.32051,-9.99999 2.16507,1.25 L 164.54483,227 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.70989,228.25 17.32051,-9.99999 2.16506,1.25 -17.3205,9.99999 z"
+       id="path2682"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2684"
+       d="m 171.04002,230.75 17.32051,-9.99999 2.16506,1.25 L 173.20508,232 Z"
+       style="fill:#000000;fill-opacity:0.15686275;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57" />
+    <g
+       id="g2743"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2686"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2718"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2720"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2722"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2724"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2726"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2728"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2730"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2732"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2763"
+       transform="translate(-4.3301263,2.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2745"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2747"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2749"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2751"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2753"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2755"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2757"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2759"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2761"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-8.6602533,5)"
+       id="g2783"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2765"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2767"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2769"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2771"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2773"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2775"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2777"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2779"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2781"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2803"
+       transform="translate(-12.99038,7.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2785"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2787"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2789"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2791"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2793"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2795"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2797"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2799"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2801"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2823"
+       transform="translate(4.3301267,2.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2805"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2807"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2809"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2811"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2813"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2815"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2817"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2819"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2821"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(4.1904021e-7,5)"
+       id="g2843"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2825"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2827"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2829"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2831"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2833"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2835"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2837"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2839"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2841"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2863"
+       transform="translate(-4.3301266,7.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2845"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2847"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2849"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2851"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2853"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2855"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2857"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2859"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2861"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-8.6602533,10)"
+       id="g2883"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2865"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2867"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2869"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2871"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2873"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2875"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2877"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2879"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2881"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(8.6602564,5)"
+       id="g2903"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2885"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2887"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2889"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2891"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2893"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2895"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2897"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2899"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2901"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2923"
+       transform="translate(4.3301302,7.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2905"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2907"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2909"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2911"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2913"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2915"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2917"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2919"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2921"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(3.1398624e-6,10)"
+       id="g2943"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2925"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2927"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2929"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2931"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2933"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2935"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2937"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2939"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2941"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2963"
+       transform="translate(-4.3301236,12.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2945"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2947"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2949"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2951"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2953"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2955"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2957"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2959"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2961"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2983"
+       transform="translate(12.990383,7.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path2965"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2967"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2969"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2971"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2973"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2975"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2977"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2979"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2981"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(8.6602573,10)"
+       id="g3003"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2985"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2989"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2991"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path2993"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2995"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2997"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path2999"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path3001"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3023"
+       transform="translate(4.3301302,12.5)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         id="path3005"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path3007"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3009"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path3011"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3013"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path3015"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path3017"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3019"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3021"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(3.4587799e-6,15)"
+       id="g3043"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\corn_3.png"
+       inkscape:export-xdpi="62.57"
+       inkscape:export-ydpi="62.57">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3025"
+         d="m 173.20508,215 -0.43301,-0.25 v -7.5 l 0.43301,-0.25 0.43301,0.25 v 7.5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3027"
+         d="m 173.63809,208.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,209.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path3029"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3031"
+         d="m 172.77207,208.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,209.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path3033"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3035"
+         d="m 173.63809,210.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3037"
+         d="m 172.77207,210.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 173.63809,211.25 0.86603,-0.5 v 0.5 l -0.86603,0.5 z"
+         id="path3039"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffff00;fill-rule:evenodd;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 172.77207,211.75 -0.86603,-0.5 v 0.5 l 0.86603,0.5 z"
+         id="path3041"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

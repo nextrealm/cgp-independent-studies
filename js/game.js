@@ -1,6 +1,7 @@
 var waters = [];
 var tiles = [];
 var title;
+var updatables = [];
 
 class FarmFactsGame extends Phaser.Scene {
     constructor() {
@@ -21,6 +22,20 @@ class FarmFactsGame extends Phaser.Scene {
         this.load.image('tomatoes_0', 'assets/sprites/tomatoes_0.png');
         this.load.image('tomatoes_1', 'assets/sprites/tomatoes_1.png');
         this.load.image('tomatoes_2', 'assets/sprites/tomatoes_2.png');
+        this.load.image('beans_0', 'assets/sprites/beans_0.png');
+        this.load.image('beans_1', 'assets/sprites/beans_1.png');
+        this.load.image('beans_2', 'assets/sprites/beans_2.png');
+        this.load.image('beans_3', 'assets/sprites/beans_3.png');
+        this.load.image('strawberries_0', 'assets/sprites/strawberries_0.png');
+        this.load.image('strawberries_1', 'assets/sprites/strawberries_1.png');
+        this.load.image('strawberries_2', 'assets/sprites/strawberries_2.png');
+        this.load.image('cauliflower_0', 'assets/sprites/cauliflower_0.png');
+        this.load.image('cauliflower_1', 'assets/sprites/cauliflower_1.png');
+        this.load.image('cauliflower_2', 'assets/sprites/cauliflower_2.png');
+        this.load.image('corn_0', 'assets/sprites/corn_0.png');
+        this.load.image('corn_1', 'assets/sprites/corn_1.png');
+        this.load.image('corn_2', 'assets/sprites/corn_2.png');
+        this.load.image('corn_3', 'assets/sprites/corn_3.png');
 
         this.load.image('button-hilight', 'assets/sprites/button-hilight.png');
         this.load.image('button-shovel', 'assets/sprites/button-shovel.png');
@@ -29,12 +44,22 @@ class FarmFactsGame extends Phaser.Scene {
         this.load.image('button-plough', 'assets/sprites/button-plough.png');
         this.load.image('button-shop', 'assets/sprites/button-shop.png');
         this.load.image('button-tomatoes', 'assets/sprites/button-tomatoes.png');
+        this.load.image('button-beans', 'assets/sprites/button-beans.png');
+        this.load.image('button-strawberries', 'assets/sprites/button-strawberries.png');
+        this.load.image('button-cauliflower', 'assets/sprites/button-cauliflower.png');
+        this.load.image('button-corn', 'assets/sprites/button-corn.png');
         this.load.image('button-sickle', 'assets/sprites/button-sickle.png');
 
         this.load.image('shop-bg', 'assets/sprites/shop-bg.png');
         this.load.image('shop-panel-bg', 'assets/sprites/shop-panel-bg.png');
         this.load.image('shop-buy', 'assets/sprites/shop-buy.png');
         this.load.image('shop-close', 'assets/sprites/shop-close.png');
+
+        this.load.image('icon-tomatoes', 'assets/sprites/icon-tomatoes.png');
+        this.load.image('icon-beans', 'assets/sprites/icon-beans.png');
+        this.load.image('icon-strawberries', 'assets/sprites/icon-strawberries.png');
+        this.load.image('icon-cauliflower', 'assets/sprites/icon-cauliflower.png');
+        this.load.image('icon-corn', 'assets/sprites/icon-corn.png');
     }
 
     create() {
@@ -169,7 +194,7 @@ class FarmFactsGame extends Phaser.Scene {
 
         this.buttonHilight = this.add.sprite(-100, -100, 'button-hilight');
 
-        this.scoreText = this.add.text(game.config.width, 20, game.global.score, {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+        this.scoreText = this.add.text(game.config.width, 10, game.global.score, {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
 
         window.updateScoreText = function() {
             that.scoreText.setText(game.global.score);
@@ -237,6 +262,42 @@ class FarmFactsGame extends Phaser.Scene {
             that.tomatoeSeedsText.setText("x" + game.global.tomatoeSeeds);
         }
 
+        this.beansButton = this.add.sprite(game.config.width, this.shopButton.y + (this.shopButton.height * 0.5), 'button-beans').setInteractive();
+        this.beansButton.x -= this.beansButton.width;
+        this.beansButton.x -= this.tomatoesButton.width;
+        this.beansButton.y += (this.beansButton.height * 0.5) + 10;
+        //this.beansButton.input.useHandCursor = true;
+        this.beansButton.on('pointerup', function (pointer) {
+            that.changeTool(beans);
+            beans.scene = that;
+            that.buttonHilight.x = this.x;
+            that.buttonHilight.y = this.y;
+        });
+
+        this.beanSeedsText = this.add.text(this.beansButton.x + (this.beansButton.width * 0.5), this.beansButton.y + (this.beansButton.height * 0.5), "x0", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+
+        window.updateBeanSeedsText = function() {
+            that.beanSeedsText.setText("x" + game.global.beanSeeds);
+        }
+
+        this.strawberriesButton = this.add.sprite(game.config.width, this.shopButton.y + (this.shopButton.height * 0.5), 'button-strawberries').setInteractive();
+        this.strawberriesButton.x -= this.strawberriesButton.width;
+        this.strawberriesButton.x -= this.tomatoesButton.width;
+        this.strawberriesButton.y += (this.strawberriesButton.height * 0.5) + 10;
+        //this.strawberriesButton.input.useHandCursor = true;
+        this.strawberriesButton.on('pointerup', function (pointer) {
+            that.changeTool(strawberries);
+            strawberries.scene = that;
+            that.buttonHilight.x = this.x;
+            that.buttonHilight.y = this.y;
+        });
+
+        this.strawberrySeedsText = this.add.text(this.strawberriesButton.x + (this.strawberriesButton.width * 0.5), this.strawberriesButton.y + (this.strawberriesButton.height * 0.5), "x0", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+
+        window.updateStrawberrySeedsText = function() {
+            that.strawberrySeedsText.setText("x" + game.global.strawberrySeeds);
+        }
+
         this.sickleButton = this.add.sprite(game.config.width, this.tomatoesButton.y + (this.tomatoesButton.height * 0.5), 'button-sickle').setInteractive();
         this.sickleButton.x -= this.sickleButton.width;
         this.sickleButton.y += (this.sickleButton.height * 0.5) + 10;
@@ -251,6 +312,12 @@ class FarmFactsGame extends Phaser.Scene {
 
         window.updateTomatoesText = function() {
             that.tomatoesText.setText("x" + game.global.tomatoeCount);
+        }
+
+        this.beansText = this.add.text(this.sickleButton.x + (this.sickleButton.width * 0.5), this.sickleButton.y + (this.sickleButton.height * 0.5) + 16, "x0", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+
+        window.updateBeansText = function() {
+            that.beansText.setText("x" + game.global.beanCount);
         }
 
         this.shopBg = this.add.sprite(0, game.config.height * 0.5, 'shop-bg');
@@ -321,6 +388,111 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopTomatoesValueText.visible = false;
         this.shopContainer.add(this.shopTomatoesValueText);
 
+        this.shopBeansPanelBg = this.add.sprite(0, this.shopTomatoesPanelBg.height + 16, 'shop-panel-bg');
+        this.shopBeansPanelBg.x += (this.shopBeansPanelBg.width * 0.5) + 16;
+        this.shopBeansPanelBg.y += (this.shopBeansPanelBg.height * 0.5) + 16;
+        //this.shopBeansPanelBg.visible = false;
+        this.shopContainer.add(this.shopBeansPanelBg);
+
+        this.shopBeansNameText = this.add.text(this.shopBeansPanelBg.x - (this.shopBeansPanelBg.width * 0.5) + 32, this.shopBeansPanelBg.y - (this.shopBeansPanelBg.height * 0.5) + 32, "Beans", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+        //this.shopBeansNameText.visible = false;
+        this.shopContainer.add(this.shopBeansNameText);
+
+        this.shopBeansBuy = this.add.sprite(this.shopBeansPanelBg.x + (this.shopBeansPanelBg.width * 0.5), this.shopBeansPanelBg.y + (this.shopBeansPanelBg.height * 0.5), 'shop-buy').setInteractive();
+        this.shopBeansBuy.x -= (this.shopBeansBuy.width * 0.5) + 16;
+        this.shopBeansBuy.y -= (this.shopBeansBuy.height * 0.5) + 16;
+        //this.shopBeansBuy.visible = false;
+        this.shopContainer.add(this.shopBeansBuy);
+        this.shopBeansBuy.on('pointerup', function (pointer) {
+            var beanCost = 10;
+            if(game.global.score >= beanCost){
+                game.global.score -= beanCost;
+                updateScoreText();
+                game.global.beanSeeds++;
+                updateBeanSeedsText();
+            }
+        });
+
+        this.shopBeansCostText = this.add.text(this.shopBeansBuy.x, this.shopBeansBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopBeansCostText.setOrigin(0.5);
+        //this.shopBeansCostText.visible = false;
+        this.shopContainer.add(this.shopBeansCostText);
+
+        this.shopBeansSell = this.add.sprite(this.shopBeansPanelBg.x + (this.shopBeansPanelBg.width * 0.5), this.shopBeansPanelBg.y + (this.shopBeansPanelBg.height * 0.5), 'shop-buy').setInteractive();
+        this.shopBeansSell.x -= (this.shopBeansSell.width * 0.5) + 16 + this.shopBeansBuy.width + 16;
+        this.shopBeansSell.y -= (this.shopBeansSell.height * 0.5) + 16;
+        //this.shopBeansSell.visible = false;
+        this.shopContainer.add(this.shopBeansSell);
+        this.shopBeansSell.on('pointerup', function (pointer) {
+            if(game.global.beanCount > 0){
+                var beanValue = 20;
+                game.global.score += beanValue;
+                updateScoreText();
+                game.global.beanCount--;
+                updateBeansText();
+            }
+        });
+
+        this.shopBeansValueText = this.add.text(this.shopBeansSell.x, this.shopBeansSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopBeansValueText.setOrigin(0.5);
+        //this.shopBeansValueText.visible = false;
+        this.shopContainer.add(this.shopBeansValueText);
+
+
+
+        this.shopStrawberriesPanelBg = this.add.sprite(0, this.shopBeansPanelBg.x + this.shopBeansPanelBg.height + 16, 'shop-panel-bg');
+        this.shopStrawberriesPanelBg.x += (this.shopStrawberriesPanelBg.width * 0.5) + 16;
+        this.shopStrawberriesPanelBg.y += (this.shopStrawberriesPanelBg.height * 0.5) + 16;
+        //this.shopStrawberriesPanelBg.visible = false;
+        this.shopContainer.add(this.shopStrawberriesPanelBg);
+
+        this.shopStrawberriesNameText = this.add.text(this.shopStrawberriesPanelBg.x - (this.shopStrawberriesPanelBg.width * 0.5) + 32, this.shopStrawberriesPanelBg.y - (this.shopStrawberriesPanelBg.height * 0.5) + 32, "Strawberries", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
+        //this.shopStrawberriesNameText.visible = false;
+        this.shopContainer.add(this.shopStrawberriesNameText);
+
+        this.shopStrawberriesBuy = this.add.sprite(this.shopStrawberriesPanelBg.x + (this.shopStrawberriesPanelBg.width * 0.5), this.shopStrawberriesPanelBg.y + (this.shopStrawberriesPanelBg.height * 0.5), 'shop-buy').setInteractive();
+        this.shopStrawberriesBuy.x -= (this.shopStrawberriesBuy.width * 0.5) + 16;
+        this.shopStrawberriesBuy.y -= (this.shopStrawberriesBuy.height * 0.5) + 16;
+        //this.shopStrawberriesBuy.visible = false;
+        this.shopContainer.add(this.shopStrawberriesBuy);
+        this.shopStrawberriesBuy.on('pointerup', function (pointer) {
+            var strawberryCost = 10;
+            if(game.global.score >= strawberryCost){
+                game.global.score -= strawberryCost;
+                updateScoreText();
+                game.global.strawberrySeeds++;
+                updateStrawberrySeedsText();
+            }
+        });
+
+        this.shopStrawberriesCostText = this.add.text(this.shopStrawberriesBuy.x, this.shopStrawberriesBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopStrawberriesCostText.setOrigin(0.5);
+        //this.shopStrawberriesCostText.visible = false;
+        this.shopContainer.add(this.shopStrawberriesCostText);
+
+        this.shopStrawberriesSell = this.add.sprite(this.shopStrawberriesPanelBg.x + (this.shopStrawberriesPanelBg.width * 0.5), this.shopStrawberriesPanelBg.y + (this.shopStrawberriesPanelBg.height * 0.5), 'shop-buy').setInteractive();
+        this.shopStrawberriesSell.x -= (this.shopStrawberriesSell.width * 0.5) + 16 + this.shopStrawberriesBuy.width + 16;
+        this.shopStrawberriesSell.y -= (this.shopStrawberriesSell.height * 0.5) + 16;
+        //this.shopStrawberriesSell.visible = false;
+        this.shopContainer.add(this.shopStrawberriesSell);
+        this.shopStrawberriesSell.on('pointerup', function (pointer) {
+            if(game.global.strawberryCount > 0){
+                var strawberryValue = 20;
+                game.global.score += strawberryValue;
+                updateScoreText();
+                game.global.strawberryCount--;
+                updateStrawberriesText();
+            }
+        });
+
+        this.shopStrawberriesValueText = this.add.text(this.shopStrawberriesSell.x, this.shopStrawberriesSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopStrawberriesValueText.setOrigin(0.5);
+        //this.shopStrawberriesValueText.visible = false;
+        this.shopContainer.add(this.shopStrawberriesValueText);
+
+
+
+
         var move = false;
         var offset = {x: 0, y: 0};
 
@@ -350,6 +522,10 @@ class FarmFactsGame extends Phaser.Scene {
         console.log("this.timeRemaining: " + this.timeRemaining);
         this.timeRemainingText = this.add.text(game.config.width * 0.5, 20, "0:00", {fontFamily: 'Arial', fontSize: 16, color: '#00ff00'});
         this.updateTimeRemainingText();
+
+        window.addUpdateable = function(tile) {
+            updatables.push(tile);
+        }
     }
 
     changeTool(tool) {
@@ -386,6 +562,17 @@ class FarmFactsGame extends Phaser.Scene {
         //console.log("this.timeRemaining: " + this.timeRemaining);
         if(this.timeRemaining <= 0){
             this.scene.start("Results");
+        }
+        for(var updatable in updatables){
+            var tile = updatables[updatable];
+            tile.timeInMiliseconds -= delta;
+            if(tile.timeInMiliseconds <= 0){
+                tile.grow();
+                if(tile.ready){
+                    var index = updatables.indexOf(tile);
+                    updatables.splice(index, 1);
+                }
+            }
         }
     }
 

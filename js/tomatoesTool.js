@@ -7,17 +7,25 @@ tomatoes = {
 				var sprite = tomatoes.scene.add.sprite(tile.x, tile.y, 'tomatoes_0');
 				tile.plant = sprite;
 				sprite.tile = tile;
-				tile.interval = setInterval(function(){tomatoes.onGrow(sprite);}, 1000);
+				tile.timeInMiliseconds = 1000;
+				tile.grow = function(){tomatoes.grow(sprite);};
+				tile.till = function(){
+					game.global.tomatoeCount++;
+					updateTomatoesText();
+					tile.setTexture('dirt');
+				};
+				tile.ready = false;
+				addUpdateable(tile);
 			}
 		}
 	},
-	onGrow: function(sprite) {
-		console.log(sprite.texture.key);
+	grow: function(sprite) {
 		if(sprite.texture.key == 'tomatoes_0'){
 			sprite.setTexture('tomatoes_1');
+			sprite.tile.timeInMiliseconds = 1000;
 		}else if(sprite.texture.key == 'tomatoes_1'){
 			sprite.setTexture('tomatoes_2');
-			clearTimeout(sprite.tile.interval);
+			sprite.tile.ready = true;
 		}
 	}
 }
