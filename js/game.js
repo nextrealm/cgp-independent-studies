@@ -36,6 +36,12 @@ class FarmFactsGame extends Phaser.Scene {
         this.load.image('corn_1', 'assets/sprites/corn_1.png');
         this.load.image('corn_2', 'assets/sprites/corn_2.png');
         this.load.image('corn_3', 'assets/sprites/corn_3.png');
+        this.load.image('apples_0', 'assets/sprites/apples_0.png');
+        this.load.image('apples_1', 'assets/sprites/apples_1.png');
+        this.load.image('apples_2', 'assets/sprites/apples_2.png');
+        this.load.image('apples_3', 'assets/sprites/apples_3.png');
+        this.load.image('apples_4', 'assets/sprites/apples_4.png');
+        this.load.image('apples_5', 'assets/sprites/apples_5.png');
 
         this.load.image('button-hilight', 'assets/sprites/button-hilight.png');
         this.load.image('button-shovel', 'assets/sprites/button-shovel.png');
