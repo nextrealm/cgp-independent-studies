@@ -55,6 +55,7 @@ class FarmFactsGame extends Phaser.Scene {
         this.load.image('button-cauliflower', 'assets/sprites/button-cauliflower.png');
         this.load.image('button-corn', 'assets/sprites/button-corn.png');
         this.load.image('button-sickle', 'assets/sprites/button-sickle.png');
+        this.load.image('button-pick', 'assets/sprites/button-pick.png');
 
         this.load.image('shop-bg', 'assets/sprites/shop-bg.png');
         this.load.image('shop-panel-bg', 'assets/sprites/shop-panel-bg.png');
@@ -325,6 +326,16 @@ class FarmFactsGame extends Phaser.Scene {
         window.updateBeansText = function() {
             that.beansText.setText("x" + game.global.beanCount);
         }
+
+        this.pickButton = this.add.sprite(game.config.width, this.sickleButton.y + (this.sickleButton.height * 0.5), 'button-pick').setInteractive();
+        this.pickButton.x -= this.pickButton.width;
+        this.pickButton.y += (this.pickButton.height * 0.5) + 10;
+        //this.pickButton.input.useHandCursor = true;
+        this.pickButton.on('pointerup', function (pointer) {
+            that.changeTool(pick);
+            that.buttonHilight.x = this.x;
+            that.buttonHilight.y = this.y;
+        });
 
         this.shopBg = this.add.sprite(0, game.config.height * 0.5, 'shop-bg');
         this.shopBg.setOrigin(0, 0.5);

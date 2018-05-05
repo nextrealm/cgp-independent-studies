@@ -81,7 +81,12 @@
 	<script src="js/ploughTool.js"></script>
 	<script src="js/tomatoesTool.js"></script>
 	<script src="js/beansTool.js"></script>
+	<script src="js/strawberriesTool.js"></script>
+	<script src="js/cauliflowerTool.js"></script>
+	<script src="js/cornTool.js"></script>
+	<script src="js/applesTool.js"></script>
 	<script src="js/sickleTool.js"></script>
+	<script src="js/pickTool.js"></script>
 	<script src="js/game.js"></script>
 	<script src="js/results.js"></script>
 	<script src="js/main.js"></script>

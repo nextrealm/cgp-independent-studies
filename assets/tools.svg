@@ -77,9 +77,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64.359765"
-     inkscape:cx="-289.63449"
-     inkscape:cy="921.01031"
+     inkscape:zoom="2.0112427"
+     inkscape:cx="-133.11669"
+     inkscape:cy="813.40552"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1527,7 +1527,10 @@
        inkscape:connector-curvature="0"
        id="path4104"
        d="m -74.176863,70.555408 c -0.374179,0.374177 -0.374252,0.374015 -0.58285,0.588648 -0.22738,0.252412 -0.329055,0.449602 -0.231668,0.44945 0.09738,-1.56e-4 0.352273,-0.205307 0.598901,-0.449816 0.215918,-0.21408 0.402656,-0.401242 0.402656,-0.401242 0,0 0.187139,-0.186762 0.401242,-0.402656 0.244508,-0.24663 0.449661,-0.501521 0.449818,-0.5989 1.55e-4,-0.09738 -0.197036,0.0043 -0.449451,0.231668 -0.214657,0.208575 -0.214471,0.208672 -0.588648,0.582848 z"
-       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-beans.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
     <g
        id="g4149"
        transform="rotate(-1.222489,132.90743,-3545.8725)"
@@ -1563,6 +1566,143 @@
          d="m -154.11101,47.197143 -0.0778,-0.157557 -0.17387,-0.02526 0.12582,-0.122641 -0.0297,-0.173172 0.15552,0.08176 0.15552,-0.08176 -0.0297,0.173172 0.12582,0.122641 -0.17388,0.02526 z"
          inkscape:transform-center-x="-1.8433333e-006"
          inkscape:transform-center-y="0.025264875" />
+    </g>
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-pick.png"
+       ry="5.1085749"
+       y="32.416672"
+       x="5.2916694"
+       height="21.166666"
+       width="21.166666"
+       id="rect1003"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-pick.png"
+       id="path1005"
+       d="M 26.31471,49.66416 A 22.489584,22.489584 0 0 1 19.030913,52.037658 22.489584,22.489584 0 0 1 5.4364126,49.668295 c 0.535507,2.249655 2.545867,3.915006 4.9640274,3.915006 h 10.949203 c 2.419647,0 4.431047,-1.667375 4.965067,-3.919141 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-pick.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1007"
+       width="18.520834"
+       height="18.520842"
+       x="6.6145835"
+       y="33.739582"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-pick.png"
+       id="path1009"
+       d="M 25.13545,45.572937 A 17.197916,17.197916 0 0 1 18.288323,48.121618 17.197916,17.197916 0 0 1 6.6146296,45.577073 v 2.2133 c 0,2.476384 1.99363,4.470011 4.4700104,4.470011 h 9.580803 c 2.476377,0 4.470007,-1.993627 4.470007,-4.470011 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1065"
+       transform="translate(-22.489582,5.2916679)"
+       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-pick.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <circle
+         r="0.66145831"
+         cy="33.078121"
+         cx="39.026043"
+         id="path1021"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.66145831"
+         cy="37.046875"
+         cx="41.671875"
+         id="path1025"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0"
+         y="35.327084"
+         x="35.71875"
+         height="3.7041647"
+         width="1.3229166"
+         id="rect1027"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.31305912;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="34.268749"
+         x="37.041668"
+         height="4.7624993"
+         width="1.3229166"
+         id="rect1029"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.2898365;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="33.210415"
+         x="38.364582"
+         height="5.8208318"
+         width="1.3229166"
+         id="rect1031"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.27749729;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="34.268749"
+         x="39.6875"
+         height="4.7624993"
+         width="1.3229166"
+         id="rect1033"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.2898365;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="37.179165"
+         x="41.010418"
+         height="1.8520839"
+         width="1.3229166"
+         id="rect1035"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.22136632;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="39.03125"
+         x="35.71875"
+         height="2.6458306"
+         width="6.6145816"
+         id="rect1037"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.41834271;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="1.3229166"
+         cy="41.677082"
+         cx="37.041668"
+         id="path1039"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="1.3229166"
+         cy="41.677082"
+         cx="41.010418"
+         id="path1041"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="40.354168"
+         x="37.041668"
+         height="2.6458333"
+         width="3.96875"
+         id="rect1043"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.66145831"
+         cy="34.136456"
+         cx="40.348957"
+         id="path1045"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.66145831"
+         cy="34.136456"
+         cx="37.703125"
+         id="path1047"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.66145831"
+         cy="35.194794"
+         cx="36.380207"
+         id="path1049"
+         style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
