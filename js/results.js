@@ -42,19 +42,19 @@ class Results extends Phaser.Scene {
         this.loginText = this.add.text(this.loginButton.x, this.loginButton.y, "Login", {fontFamily: 'Arial', fontSize: 26, color: '#000'}).setOrigin(0, 0.5);
         this.loginText.visible = game.global.user_id == -1;
 
+        var that = this;
+        
         this.logoutButton = this.add.sprite(game.config.width * 0.5, 240, 'button-logout').setInteractive();
         //this.logoutButton.x -= this.logoutButton.width;
         this.logoutButton.on('pointerup', function (pointer) {
             game.global.user_id = -1;
             game.user.save();
-            updateButtonVisibility();
+            that.updateButtonVisibility();
         });
         this.logoutButton.visible = game.global.user_id != -1;
 
         this.logoutText = this.add.text(this.logoutButton.x, this.logoutButton.y, "Logout", {fontFamily: 'Arial', fontSize: 26, color: '#000'}).setOrigin(0, 0.5);
         this.logoutText.visible = game.global.user_id != -1;
-
-        var that = this;
 
         this.surveyButton = this.add.sprite(game.config.width, game.config.height, 'button-survey').setInteractive();
         this.surveyButton.x -= this.surveyButton.width;

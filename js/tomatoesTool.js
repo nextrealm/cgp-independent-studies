@@ -24,7 +24,7 @@ tomatoes = {
 	grow: function(sprite) {
 		if(sprite.texture.key == 'tomatoes_0'){
 			sprite.setTexture('tomatoes_1');
-			sprite.tile.timeInMiliseconds = 1000;
+			sprite.tile.timeInMiliseconds = 2000;
 		}else if(sprite.texture.key == 'tomatoes_1'){
 			sprite.setTexture('tomatoes_2');
 			sprite.tile.ready = true;

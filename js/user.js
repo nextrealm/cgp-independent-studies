@@ -36,8 +36,14 @@ $("#login").on("submit", function(e){
     console.log("submit");
     var username = $("#loginUsername").val();
     console.log("username: " + username);
+    if(username.length <= 0){
+        return;
+    }
     var password = $("#loginPassword").val();
     console.log("password: " + password);
+    if(password.length <= 0){
+        return;
+    }
     $.ajax({
         url: './highscores.php',
         type: 'GET',
@@ -66,8 +72,14 @@ $("#register").on("submit", function(e){
     console.log("submit");
     var username = $("#registerUsername").val();
     console.log("username: " + username);
+    if(username.length <= 0){
+        return;
+    }
     var password = $("#registerPassword").val();
     console.log("password: " + password);
+    if(password.length <= 0){
+        return;
+    }
     $.ajax({
         url: './highscores.php',
         type: 'GET',

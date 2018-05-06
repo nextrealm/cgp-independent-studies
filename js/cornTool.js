@@ -24,10 +24,10 @@ corn = {
 	grow: function(sprite) {
 		if(sprite.texture.key == 'corn_0'){
 			sprite.setTexture('corn_1');
-			sprite.tile.timeInMiliseconds = 1000;
+			sprite.tile.timeInMiliseconds = 2000;
 		}else if(sprite.texture.key == 'corn_1'){
 			sprite.setTexture('corn_2');
-			sprite.tile.timeInMiliseconds = 1000;
+			sprite.tile.timeInMiliseconds = 3000;
 		}else if(sprite.texture.key == 'corn_2'){
 			sprite.setTexture('corn_3');
 			sprite.tile.ready = true;

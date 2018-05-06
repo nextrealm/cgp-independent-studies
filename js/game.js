@@ -3,6 +3,21 @@ var tiles = [];
 var title;
 var updatables = [];
 
+var tomatoesCost = 5;
+var tomatoesValue = 15;
+var beansCost = 10;
+var beansValue = 60;
+var strawberriesCost = 5;
+var strawberriesValue = 15;
+var cauliflowerCost = 5;
+var cauliflowerValue = 15;
+var cornCost = 10;
+var cornValue = 60;
+var applesCost = 50;
+var applesValue = 250;
+var orangesCost = 75;
+var orangesValue = 375;
+
 class FarmFactsGame extends Phaser.Scene {
     constructor() {
         super({key: 'FarmFactsGame'/*, files: [{
@@ -638,9 +653,8 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopTomatoesBuy.visible = false;
         this.shopContainer.add(this.shopTomatoesBuy);
         this.shopTomatoesBuy.on('pointerup', function (pointer) {
-            var tomatoeCost = 1;
-            if(game.global.score >= tomatoeCost){
-                game.global.score -= tomatoeCost;
+            if(game.global.score >= tomatoesCost){
+                game.global.score -= tomatoesCost;
                 updateScoreText();
                 game.global.tomatoeSeeds++;
                 updateTomatoeSeedsText();
@@ -650,7 +664,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopTomatoesCostText = this.add.text(this.shopTomatoesBuy.x, this.shopTomatoesBuy.y, "x1", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopTomatoesCostText = this.add.text(this.shopTomatoesBuy.x, this.shopTomatoesBuy.y, "x" + tomatoesCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopTomatoesCostText.setOrigin(0.5);
         //this.shopTomatoesCostText.visible = false;
         this.shopContainer.add(this.shopTomatoesCostText);
@@ -662,13 +676,12 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopTomatoesSell);
         this.shopTomatoesSell.on('pointerup', function (pointer) {
             if(game.global.tomatoeCount > 0){
-                var tomatoeValue = 2;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 3){
                     multiplier = 1.2;
                 }
-                game.global.score += tomatoeValue * multiplier;
+                game.global.score += tomatoesValue * multiplier;
                 updateScoreText();
                 game.global.tomatoeCount--;
                 updateTomatoesText();
@@ -676,7 +689,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopTomatoesValueText = this.add.text(this.shopTomatoesSell.x, this.shopTomatoesSell.y, "x2", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopTomatoesValueText = this.add.text(this.shopTomatoesSell.x, this.shopTomatoesSell.y, "x" + tomatoesValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopTomatoesValueText.setOrigin(0.5);
         //this.shopTomatoesValueText.visible = false;
         this.shopContainer.add(this.shopTomatoesValueText);
@@ -707,9 +720,8 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopBeansBuy.visible = false;
         this.shopContainer.add(this.shopBeansBuy);
         this.shopBeansBuy.on('pointerup', function (pointer) {
-            var beanCost = 10;
-            if(game.global.score >= beanCost){
-                game.global.score -= beanCost;
+            if(game.global.score >= beansCost){
+                game.global.score -= beansCost;
                 updateScoreText();
                 game.global.beanSeeds++;
                 updateBeanSeedsText();
@@ -719,7 +731,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopBeansCostText = this.add.text(this.shopBeansBuy.x, this.shopBeansBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopBeansCostText = this.add.text(this.shopBeansBuy.x, this.shopBeansBuy.y, "x" + beansCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopBeansCostText.setOrigin(0.5);
         //this.shopBeansCostText.visible = false;
         this.shopContainer.add(this.shopBeansCostText);
@@ -731,13 +743,12 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopBeansSell);
         this.shopBeansSell.on('pointerup', function (pointer) {
             if(game.global.beanCount > 0){
-                var beanValue = 20;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 1){
                     multiplier = 1.2;
                 }
-                game.global.score += beanValue * multiplier;
+                game.global.score += beansValue * multiplier;
                 updateScoreText();
                 game.global.beanCount--;
                 updateBeansText();
@@ -745,7 +756,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopBeansValueText = this.add.text(this.shopBeansSell.x, this.shopBeansSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopBeansValueText = this.add.text(this.shopBeansSell.x, this.shopBeansSell.y, "x" + beansValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopBeansValueText.setOrigin(0.5);
         //this.shopBeansValueText.visible = false;
         this.shopContainer.add(this.shopBeansValueText);
@@ -776,9 +787,8 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopStrawberriesBuy.visible = false;
         this.shopContainer.add(this.shopStrawberriesBuy);
         this.shopStrawberriesBuy.on('pointerup', function (pointer) {
-            var strawberryCost = 10;
-            if(game.global.score >= strawberryCost){
-                game.global.score -= strawberryCost;
+            if(game.global.score >= strawberriesCost){
+                game.global.score -= strawberriesCost;
                 updateScoreText();
                 game.global.strawberrySeeds++;
                 updateStrawberrySeedsText();
@@ -788,7 +798,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopStrawberriesCostText = this.add.text(this.shopStrawberriesBuy.x, this.shopStrawberriesBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopStrawberriesCostText = this.add.text(this.shopStrawberriesBuy.x, this.shopStrawberriesBuy.y, "x" + strawberriesCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopStrawberriesCostText.setOrigin(0.5);
         //this.shopStrawberriesCostText.visible = false;
         this.shopContainer.add(this.shopStrawberriesCostText);
@@ -800,13 +810,12 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopStrawberriesSell);
         this.shopStrawberriesSell.on('pointerup', function (pointer) {
             if(game.global.strawberryCount > 0){
-                var strawberryValue = 20;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 2){
                     multiplier = 1.2;
                 }
-                game.global.score += strawberryValue * multiplier;
+                game.global.score += strawberriesValue * multiplier;
                 updateScoreText();
                 game.global.strawberryCount--;
                 updateStrawberriesText();
@@ -814,7 +823,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopStrawberriesValueText = this.add.text(this.shopStrawberriesSell.x, this.shopStrawberriesSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopStrawberriesValueText = this.add.text(this.shopStrawberriesSell.x, this.shopStrawberriesSell.y, "x" + strawberriesValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopStrawberriesValueText.setOrigin(0.5);
         //this.shopStrawberriesValueText.visible = false;
         this.shopContainer.add(this.shopStrawberriesValueText);
@@ -845,7 +854,6 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopCauliflowerBuy.visible = false;
         this.shopContainer.add(this.shopCauliflowerBuy);
         this.shopCauliflowerBuy.on('pointerup', function (pointer) {
-            var cauliflowerCost = 10;
             if(game.global.score >= cauliflowerCost){
                 game.global.score -= cauliflowerCost;
                 updateScoreText();
@@ -857,7 +865,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopCauliflowerCostText = this.add.text(this.shopCauliflowerBuy.x, this.shopCauliflowerBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopCauliflowerCostText = this.add.text(this.shopCauliflowerBuy.x, this.shopCauliflowerBuy.y, "x" + cauliflowerCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopCauliflowerCostText.setOrigin(0.5);
         //this.shopCauliflowerCostText.visible = false;
         this.shopContainer.add(this.shopCauliflowerCostText);
@@ -869,7 +877,6 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopCauliflowerSell);
         this.shopCauliflowerSell.on('pointerup', function (pointer) {
             if(game.global.cauliflowerCount > 0){
-                var cauliflowerValue = 20;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 4){
@@ -883,7 +890,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopCauliflowerValueText = this.add.text(this.shopCauliflowerSell.x, this.shopCauliflowerSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopCauliflowerValueText = this.add.text(this.shopCauliflowerSell.x, this.shopCauliflowerSell.y, "x" + cauliflowerValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopCauliflowerValueText.setOrigin(0.5);
         //this.shopCauliflowerValueText.visible = false;
         this.shopContainer.add(this.shopCauliflowerValueText);
@@ -914,7 +921,6 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopCornBuy.visible = false;
         this.shopContainer.add(this.shopCornBuy);
         this.shopCornBuy.on('pointerup', function (pointer) {
-            var cornCost = 10;
             if(game.global.score >= cornCost){
                 game.global.score -= cornCost;
                 updateScoreText();
@@ -926,7 +932,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopCornCostText = this.add.text(this.shopCornBuy.x, this.shopCornBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopCornCostText = this.add.text(this.shopCornBuy.x, this.shopCornBuy.y, "x" + cornCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopCornCostText.setOrigin(0.5);
         //this.shopCornCostText.visible = false;
         this.shopContainer.add(this.shopCornCostText);
@@ -938,7 +944,6 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopCornSell);
         this.shopCornSell.on('pointerup', function (pointer) {
             if(game.global.cornCount > 0){
-                var cornValue = 20;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 2){
@@ -952,7 +957,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopCornValueText = this.add.text(this.shopCornSell.x, this.shopCornSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopCornValueText = this.add.text(this.shopCornSell.x, this.shopCornSell.y, "x" + cornValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopCornValueText.setOrigin(0.5);
         //this.shopCornValueText.visible = false;
         this.shopContainer.add(this.shopCornValueText);
@@ -983,9 +988,8 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopAppleBuy.visible = false;
         this.shopContainer.add(this.shopAppleBuy);
         this.shopAppleBuy.on('pointerup', function (pointer) {
-            var appleCost = 10;
-            if(game.global.score >= appleCost){
-                game.global.score -= appleCost;
+            if(game.global.score >= applesCost){
+                game.global.score -= applesCost;
                 updateScoreText();
                 game.global.appleSeeds++;
                 updateAppleSeedsText();
@@ -995,7 +999,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopAppleCostText = this.add.text(this.shopAppleBuy.x, this.shopAppleBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopAppleCostText = this.add.text(this.shopAppleBuy.x, this.shopAppleBuy.y, "x" + applesCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopAppleCostText.setOrigin(0.5);
         //this.shopAppleCostText.visible = false;
         this.shopContainer.add(this.shopAppleCostText);
@@ -1007,13 +1011,12 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopAppleSell);
         this.shopAppleSell.on('pointerup', function (pointer) {
             if(game.global.appleCount > 0){
-                var appleValue = 20;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 3){
                     multiplier = 1.2;
                 }
-                game.global.score += appleValue * multiplier;
+                game.global.score += applesValue * multiplier;
                 updateScoreText();
                 game.global.appleCount--;
                 updateApplesText();
@@ -1021,7 +1024,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopAppleValueText = this.add.text(this.shopAppleSell.x, this.shopAppleSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopAppleValueText = this.add.text(this.shopAppleSell.x, this.shopAppleSell.y, "x" + applesValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopAppleValueText.setOrigin(0.5);
         //this.shopAppleValueText.visible = false;
         this.shopContainer.add(this.shopAppleValueText);
@@ -1052,9 +1055,8 @@ class FarmFactsGame extends Phaser.Scene {
         //this.shopOrangeBuy.visible = false;
         this.shopContainer.add(this.shopOrangeBuy);
         this.shopOrangeBuy.on('pointerup', function (pointer) {
-            var orangeCost = 10;
-            if(game.global.score >= orangeCost){
-                game.global.score -= orangeCost;
+            if(game.global.score >= orangesCost){
+                game.global.score -= orangesCost;
                 updateScoreText();
                 game.global.orangeSeeds++;
                 updateOrangeSeedsText();
@@ -1064,7 +1066,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopOrangeCostText = this.add.text(this.shopOrangeBuy.x, this.shopOrangeBuy.y, "x10", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopOrangeCostText = this.add.text(this.shopOrangeBuy.x, this.shopOrangeBuy.y, "x" + orangesCost, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopOrangeCostText.setOrigin(0.5);
         //this.shopOrangeCostText.visible = false;
         this.shopContainer.add(this.shopOrangeCostText);
@@ -1076,13 +1078,12 @@ class FarmFactsGame extends Phaser.Scene {
         this.shopContainer.add(this.shopOrangeSell);
         this.shopOrangeSell.on('pointerup', function (pointer) {
             if(game.global.orangeCount > 0){
-                var orangeValue = 20;
                 var multiplier = 1;
                 var season = that.getSeason();
                 if(season == 3){
                     multiplier = 1.2;
                 }
-                game.global.score += orangeValue * multiplier;
+                game.global.score += orangesValue * multiplier;
                 updateScoreText();
                 game.global.orangeCount--;
                 updateOrangesText();
@@ -1090,7 +1091,7 @@ class FarmFactsGame extends Phaser.Scene {
             }
         });
 
-        this.shopOrangeValueText = this.add.text(this.shopOrangeSell.x, this.shopOrangeSell.y, "x20", {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
+        this.shopOrangeValueText = this.add.text(this.shopOrangeSell.x, this.shopOrangeSell.y, "x" + orangesValue, {fontFamily: 'Arial', fontSize: 16, color: '#000000'/*, align: 'center'*/});
         this.shopOrangeValueText.setOrigin(0.5);
         //this.shopOrangeValueText.visible = false;
         this.shopContainer.add(this.shopOrangeValueText);

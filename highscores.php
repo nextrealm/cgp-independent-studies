@@ -118,7 +118,7 @@ function register($username, $password) {
         $statement->bind_param("sss", $username, $password, $datetime);
         $statement->execute();
         if($statement->errno != 0){
-            $error = ["error" => 1, "message" => "Error"];
+            $error = ["error" => 1, "message" => "Error: User could not be created. Username may already be in use."];
             
             $statement->close();
             disconnect($mysqli);
@@ -146,13 +146,13 @@ function login($username, $password) {
     exit;*/
 
     if (!$result = $mysqli->query($sql)) {
-        $error = ["error" => 1, "message" => "Error"];
+        $error = ["error" => 1, "message" => "Error: Username/Password combination error."];
         disconnect($mysqli);
         return $error;
     }
 
     if ($result->num_rows === 0) {
-        $error = ["error" => 2, "message" => "Not found"];
+        $error = ["error" => 2, "message" => "Error: User not found"];
         disconnect($mysqli);
         return $error;
     }
@@ -205,13 +205,13 @@ function get($userId) {
     $sql = "SELECT username, score FROM scores LEFT JOIN users ON users.id=scores.user_id WHERE user_id = $user_id;";
 
     if (!$result = $mysqli->query($sql)) {
-        echo "No result!";
-        exit;
+        //echo "No result!";
+        return [];
     }
 
     if ($result->num_rows === 0) {
-        echo "Empty result!";
-        exit;
+        //echo "Empty result!";
+        return [];
     }
 
     $data = $result->fetch_assoc();

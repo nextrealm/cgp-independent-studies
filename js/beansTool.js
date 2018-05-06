@@ -7,7 +7,7 @@ beans = {
 				var sprite = beans.scene.add.sprite(tile.x, tile.y, 'beans_0');
 				tile.plant = sprite;
 				sprite.tile = tile;
-				tile.timeInMiliseconds = 3000;
+				tile.timeInMiliseconds = 1000;
 				tile.grow = function(){beans.grow(sprite);};
 				tile.till = function(){
 					game.global.beanCount++;
@@ -24,7 +24,7 @@ beans = {
 	grow: function(sprite) {
 		if(sprite.texture.key == 'beans_0'){
 			sprite.setTexture('beans_1');
-			sprite.tile.timeInMiliseconds = 3000;
+			sprite.tile.timeInMiliseconds = 2000;
 		}else if(sprite.texture.key == 'beans_1'){
 			sprite.setTexture('beans_2');
 			sprite.tile.timeInMiliseconds = 3000;

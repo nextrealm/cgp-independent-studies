@@ -24,7 +24,7 @@ strawberries = {
 	grow: function(sprite) {
 		if(sprite.texture.key == 'strawberries_0'){
 			sprite.setTexture('strawberries_1');
-			sprite.tile.timeInMiliseconds = 1000;
+			sprite.tile.timeInMiliseconds = 2000;
 		}else if(sprite.texture.key == 'strawberries_1'){
 			sprite.setTexture('strawberries_2');
 			sprite.tile.ready = true;

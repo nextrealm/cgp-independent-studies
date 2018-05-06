@@ -24,7 +24,7 @@ cauliflower = {
 	grow: function(sprite) {
 		if(sprite.texture.key == 'cauliflower_0'){
 			sprite.setTexture('cauliflower_1');
-			sprite.tile.timeInMiliseconds = 1000;
+			sprite.tile.timeInMiliseconds = 2000;
 		}else if(sprite.texture.key == 'cauliflower_1'){
 			sprite.setTexture('cauliflower_2');
 			sprite.tile.ready = true;

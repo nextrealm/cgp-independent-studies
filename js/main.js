@@ -64,7 +64,7 @@ game.global = {
     appleCount: 0,
     orangeSeeds: 0,
     orangeCount: 0,
-    score: 10,
+    score: 50,
     scores: []
 }
 
@@ -89,7 +89,7 @@ game.user = {
 		}
     },
     reset: function() {
-        game.global.score = 10;
+        game.global.score = 50;
         game.global.water = 0;
         game.global.tomatoeSeeds = 0;
         game.global.tomatoeCount = 0;

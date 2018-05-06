@@ -36,6 +36,12 @@
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2SFR9P"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->*/ ?>
+	<script>
+	window['GoogleAnalyticsObject'] = 'ga';
+	window['ga'] = window['ga'] || function() {
+		(window['ga'].q = window['ga'].q || []).push(arguments)
+	};
+	</script>
 	<div id="modal" style="display:none;">
 		<div id="modal-login" class="modal-container">
 			<div id="modal-header">
@@ -55,6 +61,7 @@
 						<input type="password" class="form-control" id="loginPassword" placeholder="Enter password">
 					</div>
 					<button id="loginSubmit" type="submit" class="btn btn-primary">Submit</button>
+					<button onclick="showRegister();" class="btn btn-secondary">Register</button>
 				</form>
 			</div>
 		</div>
@@ -76,6 +83,7 @@
 						<input type="password" class="form-control" id="registerPassword" placeholder="Enter password">
 					</div>
 					<button id="registerSubmit" type="submit" class="btn btn-primary">Submit</button>
+					<button onclick="showLogin();" class="btn btn-secondary">Login</button>
 				</form>
 			</div>
 		</div>
