@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="tools.svg">
   <defs
      id="defs2">
@@ -77,9 +77,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0112427"
-     inkscape:cx="-133.11669"
-     inkscape:cy="813.40552"
+     inkscape:zoom="5.6886534"
+     inkscape:cx="-292.4268"
+     inkscape:cy="398.06555"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1451,9 +1451,9 @@
          style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       inkscape:export-ydpi="102.19956"
-       inkscape:export-xdpi="102.19956"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-corn.png"
+       inkscape:export-ydpi="574.8725"
+       inkscape:export-xdpi="574.8725"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-corn-large.png"
        transform="translate(2.9104163,-3.3333333e-6)"
        id="g4059">
       <path
@@ -1476,9 +1476,9 @@
          sodipodi:nodetypes="scscs" />
     </g>
     <g
-       inkscape:export-ydpi="255.5347"
-       inkscape:export-xdpi="255.5347"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-cauliflower.png"
+       inkscape:export-ydpi="1437.3827"
+       inkscape:export-xdpi="1437.3827"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-cauliflower-large.png"
        transform="translate(1.4551272,2.7817446)"
        id="g4065">
       <circle
@@ -1495,9 +1495,9 @@
          style="fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       inkscape:export-ydpi="271.64301"
-       inkscape:export-xdpi="271.64301"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-strawberries.png"
+       inkscape:export-ydpi="1527.9919"
+       inkscape:export-xdpi="1527.9919"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-strawberries-large.png"
        transform="translate(0.12291766,0.1419392)"
        id="g4071">
       <path
@@ -1528,15 +1528,15 @@
        id="path4104"
        d="m -74.176863,70.555408 c -0.374179,0.374177 -0.374252,0.374015 -0.58285,0.588648 -0.22738,0.252412 -0.329055,0.449602 -0.231668,0.44945 0.09738,-1.56e-4 0.352273,-0.205307 0.598901,-0.449816 0.215918,-0.21408 0.402656,-0.401242 0.402656,-0.401242 0,0 0.187139,-0.186762 0.401242,-0.402656 0.244508,-0.24663 0.449661,-0.501521 0.449818,-0.5989 1.55e-4,-0.09738 -0.197036,0.0043 -0.449451,0.231668 -0.214657,0.208575 -0.214471,0.208672 -0.588648,0.582848 z"
        style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-beans.png"
-       inkscape:export-xdpi="108"
-       inkscape:export-ydpi="108" />
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-beans-large.png"
+       inkscape:export-xdpi="1209.8436"
+       inkscape:export-ydpi="1209.8436" />
     <g
        id="g4149"
        transform="rotate(-1.222489,132.90743,-3545.8725)"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\icon-tomatoes.png"
-       inkscape:export-xdpi="271.052"
-       inkscape:export-ydpi="271.052">
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-tomatoes-large.png"
+       inkscape:export-xdpi="1524.6676"
+       inkscape:export-ydpi="1524.6676">
       <path
          style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path4145"
@@ -1704,5 +1704,181 @@
          id="path1049"
          style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       ry="5.1085749"
+       y="158.09375"
+       x="-100.54166"
+       height="21.166666"
+       width="21.166666"
+       id="rect4127"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       id="path4129"
+       d="m -79.518641,175.34124 a 22.489584,22.489584 0 0 1 -7.283797,2.3735 22.489584,22.489584 0 0 1 -13.594502,-2.36936 c 0.535509,2.24966 2.545868,3.91501 4.964028,3.91501 h 10.949204 c 2.419647,0 4.431047,-1.66738 4.965067,-3.91915 z"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4131"
+       width="18.520834"
+       height="18.520842"
+       x="-99.21875"
+       y="159.41667"
+       ry="4.4700055" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       id="path4133"
+       d="m -80.697901,171.25002 a 17.197916,17.197916 0 0 1 -6.847127,2.54868 17.197916,17.197916 0 0 1 -11.673694,-2.54455 v 2.2133 c 0,2.47639 1.99363,4.47002 4.47001,4.47002 h 9.580804 c 2.476377,0 4.470007,-1.99363 4.470007,-4.47002 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       transform="rotate(28.777511)"
+       y="185.12468"
+       x="-1.4480424"
+       height="11.90625"
+       width="7.9375"
+       id="rect4135"
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="108"
+       inkscape:export-xdpi="108"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4137"
+       d="m -90.390006,161.5639 6.957185,3.82119 -1.796399,0.52266 -4.638118,-2.54745 z"
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g6829"
+       transform="translate(-8.9958337,-1.5875)"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-apple-large.png"
+       inkscape:export-xdpi="613.95367"
+       inkscape:export-ydpi="613.95367">
+      <rect
+         transform="rotate(30)"
+         y="177.32542"
+         x="31.540443"
+         height="0.79374999"
+         width="0.26458332"
+         id="rect6825"
+         style="fill:#28170b;stroke:#000000;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cscsssc"
+         inkscape:connector-curvature="0"
+         id="circle1884"
+         d="m -59.795833,171.5875 c -4e-6,0.90679 -0.735101,1.26979 -1.641887,1.26979 -0.906786,0 -1.641882,-0.363 -1.641886,-1.26979 -1e-6,-0.45339 0.183773,-1.18944 0.480896,-1.48657 0.297123,-0.29712 0.707595,-0.15532 1.16099,-0.15532 0.453395,0 0.863867,-0.1418 1.160991,0.15532 0.297123,0.29713 0.480897,1.03318 0.480896,1.48657 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="rotate(30,-71.25331,116.97835)"
+       id="g6835"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-apple.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108">
+      <rect
+         style="fill:#28170b;stroke:#000000;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect6831"
+         width="0.26458332"
+         height="0.79374999"
+         x="31.540443"
+         y="177.32542"
+         transform="rotate(30)" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -59.795833,171.5875 c -4e-6,0.90679 -0.735101,1.26979 -1.641887,1.26979 -0.906786,0 -1.641882,-0.363 -1.641886,-1.26979 -1e-6,-0.45339 0.183773,-1.18944 0.480896,-1.48657 0.297123,-0.29712 0.707595,-0.15532 1.16099,-0.15532 0.453395,0 0.863867,-0.1418 1.160991,0.15532 0.297123,0.29713 0.480897,1.03318 0.480896,1.48657 z"
+         id="path6833"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscsssc" />
+    </g>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect448"
+       width="21.166666"
+       height="21.166666"
+       x="-100.54166"
+       y="183.22916"
+       ry="5.1085749"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -79.518641,200.47665 a 22.489584,22.489584 0 0 1 -7.283797,2.3735 22.489584,22.489584 0 0 1 -13.594502,-2.36936 c 0.535509,2.24966 2.545868,3.91501 4.964028,3.91501 h 10.949204 c 2.419647,0 4.431047,-1.66738 4.965067,-3.91915 z"
+       id="path450"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       ry="4.4700055"
+       y="184.55208"
+       x="-99.21875"
+       height="18.520842"
+       width="18.520834"
+       id="rect452"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.23151048;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -80.697901,196.38543 a 17.197916,17.197916 0 0 1 -6.847127,2.54868 17.197916,17.197916 0 0 1 -11.673694,-2.54455 v 2.2133 c 0,2.47639 1.99363,4.47002 4.47001,4.47002 h 9.580804 c 2.476377,0 4.470007,-1.99363 4.470007,-4.47002 z"
+       id="path454"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <rect
+       style="fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect456"
+       width="7.9375"
+       height="11.90625"
+       x="10.652388"
+       y="207.15576"
+       transform="rotate(28.777511)"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <path
+       style="fill:#c87137;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -90.390006,186.69931 6.957185,3.82119 -1.796399,0.52266 -4.638118,-2.54745 z"
+       id="path458"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
+    <circle
+       style="fill:#ff6600;stroke:#aa4400;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path472"
+       cx="-65.484375"
+       cy="194.47397"
+       r="1.984375"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\icon-orange-large.png"
+       inkscape:export-xdpi="551.94019"
+       inkscape:export-ydpi="551.94019" />
+    <circle
+       r="1.984375"
+       cy="193.96236"
+       cx="-89.902496"
+       id="circle474"
+       style="fill:#ff6600;stroke:#aa4400;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-orange.png"
+       inkscape:export-xdpi="108"
+       inkscape:export-ydpi="108" />
   </g>
 </svg>

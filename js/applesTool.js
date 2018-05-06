@@ -14,10 +14,14 @@ apples = {
 					updateApplesText();
 					sprite.setTexture('apples_4');
 					sprite.tile.ready = false;
+					addUpdateable(tile);
 					sprite.tile.timeInMiliseconds = 1000;
+					ga('send', 'event', "Action", "Harvest", "Apple");
 				};
 				tile.ready = false;
 				addUpdateable(tile);
+				ga('send', 'event', "Action", "Plant", "Apple");
+
 			}
 		}
 	},

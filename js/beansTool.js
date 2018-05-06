@@ -13,9 +13,11 @@ beans = {
 					game.global.beanCount++;
 					updateBeansText();
 					tile.setTexture('dirt');
+					ga('send', 'event', "Action", "Harvest", "Beans");
 				};
 				tile.ready = false;
 				addUpdateable(tile);
+				ga('send', 'event', "Action", "Plant", "Beans");
 			}
 		}
 	},

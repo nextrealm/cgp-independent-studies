@@ -12,7 +12,7 @@ class Main extends Phaser.Scene {
     }
 
     create() {
-        console.info('Main scene started.');
+        //console.info('Main scene started.');
 
         /*var that = this;
 
@@ -54,6 +54,16 @@ game.global = {
     tomatoeCount: 0,
     beanSeeds: 0,
     beanCount: 0,
+    strawberrySeeds: 0,
+    strawberryCount: 0,
+    cauliflowerSeeds: 0,
+    cauliflowerCount: 0,
+    cornSeeds: 0,
+    cornCount: 0,
+    appleSeeds: 0,
+    appleCount: 0,
+    orangeSeeds: 0,
+    orangeCount: 0,
     score: 10,
     scores: []
 }
@@ -85,6 +95,16 @@ game.user = {
         game.global.tomatoeCount = 0;
         game.global.beanSeeds = 0;
         game.global.beanCount = 0;
+        game.global.strawberrySeeds = 0;
+        game.global.strawberryCount = 0;
+        game.global.cauliflowerSeeds = 0;
+        game.global.cauliflowerCount = 0;
+        game.global.cornSeeds = 0;
+        game.global.cornCount = 0;
+        game.global.appleSeeds = 0;
+        game.global.appleCount = 0;
+        game.global.orangeSeeds = 0;
+        game.global.orangeCount = 0;
     }
 }
 

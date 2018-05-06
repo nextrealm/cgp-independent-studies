@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="results.svg">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.866667"
-     inkscape:cx="370.00001"
-     inkscape:cy="700.00028"
+     inkscape:zoom="8.438141"
+     inkscape:cx="364.69081"
+     inkscape:cy="711.17189"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -65,8 +65,9 @@
        x="89.958336"
        y="95.916664"
        ry="0.79375255"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-xdpi="307.19907"
+       inkscape:export-ydpi="307.19907"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-login.png" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4510"
@@ -75,18 +76,20 @@
        x="90.752083"
        y="96.710419"
        ry="0.79375261"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-xdpi="307.19907"
+       inkscape:export-ydpi="307.19907"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-login.png" />
     <rect
-       ry="0.68036026"
-       y="96.974998"
-       x="91.01667"
-       height="3.175004"
-       width="2.6458292"
+       ry="0.62366331"
+       y="97.107292"
+       x="91.148956"
+       height="2.910419"
+       width="2.3812473"
        id="rect4512"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3.57781911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3.24971557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="307.19907"
+       inkscape:export-ydpi="307.19907"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-login.png" />
     <rect
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4541"
@@ -95,13 +98,15 @@
        x="90.487495"
        y="97.768745"
        ry="0.26458332"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-xdpi="307.19907"
+       inkscape:export-ydpi="307.19907"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-login.png" />
     <g
        id="g4539"
        transform="translate(-6.0854121)"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003">
+       inkscape:export-xdpi="307.19907"
+       inkscape:export-ydpi="307.19907"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-login.png">
       <rect
          ry="0.26458332"
          y="98.033333"
@@ -126,8 +131,9 @@
        width="15.875"
        id="rect4543"
        style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-logout.png" />
     <rect
        ry="0.79375261"
        y="96.710419"
@@ -179,24 +185,27 @@
        width="3.175"
        id="rect4557"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-logout.png" />
     <rect
-       style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:3.57781911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:3.24967575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4559"
-       width="2.6458292"
-       height="3.175004"
-       x="91.01667"
-       y="103.58965"
-       ry="0.68036026"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003" />
+       width="2.3812473"
+       height="2.9103479"
+       x="91.148956"
+       y="103.72198"
+       ry="0.62364805"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-logout.png" />
     <g
        id="g4573"
-       transform="matrix(1.2749994,0,0,1.25,-31.584576,-18.025989)"
+       transform="matrix(1.2749994,0,0,1.25,-31.686408,-18.025989)"
        style="fill:#ff2a2a"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003">
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-logout.png">
       <rect
          ry="0.26458332"
          y="98.033333"
@@ -216,8 +225,9 @@
     <g
        transform="translate(-4.4979154,6.6146256)"
        id="g4567"
-       inkscape:export-xdpi="76.800003"
-       inkscape:export-ydpi="76.800003">
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-logout.png">
       <rect
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4563"
@@ -244,7 +254,7 @@
        x="89.958336"
        y="109.14576"
        ry="0.79375255"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png" />
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-replay.png" />
     <path
        style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path889"
@@ -257,22 +267,22 @@
        sodipodi:end="5.9707714"
        sodipodi:open="true"
        d="m 94.449782,111.63703 a 1.8520833,1.8520833 0 0 1 -1.585721,1.98838 1.8520833,1.8520833 0 0 1 -2.075795,-1.46943 1.8520833,1.8520833 0 0 1 1.348349,-2.15642 1.8520833,1.8520833 0 0 1 2.229981,1.22285"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-replay.png"
        inkscape:export-xdpi="307.20001"
        inkscape:export-ydpi="307.20001" />
     <path
-       d="m 94.191667,111.65866 a 1.5930641,1.5930641 0 0 1 -1.363954,1.7103 1.5930641,1.5930641 0 0 1 -1.785488,-1.26394 1.5930641,1.5930641 0 0 1 1.159778,-1.85483 1.5930641,1.5930641 0 0 1 1.918112,1.05183"
+       d="m 94.059606,111.66972 a 1.4605411,1.4605411 0 0 1 -1.250489,1.56803 1.4605411,1.4605411 0 0 1 -1.636958,-1.15879 1.4605411,1.4605411 0 0 1 1.063299,-1.70054 1.4605411,1.4605411 0 0 1 1.758549,0.96433"
        sodipodi:open="true"
        sodipodi:end="5.9707714"
        sodipodi:start="6.1996015"
-       sodipodi:ry="1.5930641"
-       sodipodi:rx="1.5930641"
+       sodipodi:ry="1.4605411"
+       sodipodi:rx="1.4605411"
        sodipodi:cy="111.79166"
        sodipodi:cx="92.604164"
        sodipodi:type="arc"
        id="path891"
-       style="fill:#55ff55;fill-opacity:1;stroke:none;stroke-width:0.22758058;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       style="fill:#55ff55;fill-opacity:1;stroke:none;stroke-width:0.20864873;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-replay.png"
        inkscape:export-xdpi="307.20001"
        inkscape:export-ydpi="307.20001" />
     <path
@@ -281,7 +291,7 @@
        id="path897"
        d="m 94.985417,111.52708 c 0.115071,1.3e-4 0.0956,0.23626 5e-6,0.32677 l -0.517608,0.49014 c -0.09559,0.0905 -0.249507,0.0905 -0.345097,0 l -0.517604,-0.49013 c -0.09559,-0.0905 -0.115025,-0.32662 4e-6,-0.32678 1.372767,-0.002 8.95e-4,-0.002 1.3803,0 z"
        style="fill:#55ff55;fill-opacity:1;stroke:none;stroke-width:0.23744152;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-replay.png"
        inkscape:export-xdpi="307.20001"
        inkscape:export-ydpi="307.20001" />
     <path
@@ -290,7 +300,73 @@
        id="rect893"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssss"
-       inkscape:export-filename="E:\Uni\IndependentStudies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-replay.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <rect
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-survey.png"
+       ry="0.79375255"
+       y="115.76035"
+       x="89.958336"
+       height="5.2916665"
+       width="15.875"
+       id="rect7037"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7047"
+       width="3.7041667"
+       height="0.52916664"
+       x="90.752083"
+       y="116.55416"
+       ry="0.26458332"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-survey.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <rect
+       ry="0.26458332"
+       y="117.34792"
+       x="90.752083"
+       height="0.52916664"
+       width="3.7041667"
+       id="rect7049"
+       style="fill:#000000;stroke:none;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-survey.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7051"
+       width="3.7041667"
+       height="0.52916664"
+       x="90.752083"
+       y="118.14167"
+       ry="0.26458332"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-survey.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <rect
+       ry="0.26458332"
+       y="118.93542"
+       x="90.752083"
+       height="0.52916664"
+       width="3.7041667"
+       id="rect7053"
+       style="fill:#000000;stroke:none;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-survey.png"
+       inkscape:export-xdpi="307.20001"
+       inkscape:export-ydpi="307.20001" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.17299999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7055"
+       width="3.7041667"
+       height="0.52916664"
+       x="90.752083"
+       y="119.72916"
+       ry="0.26458332"
+       inkscape:export-filename="D:\Temp\100026312\Independent Studies\cgp-independent-studies\assets\sprites\button-survey.png"
        inkscape:export-xdpi="307.20001"
        inkscape:export-ydpi="307.20001" />
   </g>

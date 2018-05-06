@@ -13,9 +13,11 @@ corn = {
 					game.global.cornCount++;
 					updateCornText();
 					tile.setTexture('dirt');
+					ga('send', 'event', "Action", "Harvest", "Corn");
 				};
 				tile.ready = false;
 				addUpdateable(tile);
+				ga('send', 'event', "Action", "Plant", "Corn");
 			}
 		}
 	},

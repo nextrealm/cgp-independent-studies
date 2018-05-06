@@ -13,9 +13,11 @@ strawberries = {
 					game.global.strawberryCount++;
 					updateStrawberriesText();
 					tile.setTexture('dirt');
+					ga('send', 'event', "Action", "Harvest", "Strawberries");
 				};
 				tile.ready = false;
 				addUpdateable(tile);
+				ga('send', 'event', "Action", "Plant", "Strawberries");
 			}
 		}
 	},

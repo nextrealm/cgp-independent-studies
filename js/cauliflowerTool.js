@@ -13,9 +13,11 @@ cauliflower = {
 					game.global.cauliflowerCount++;
 					updateCauliflowerText();
 					tile.setTexture('dirt');
+					ga('send', 'event', "Action", "Harvest", "Cauliflower");
 				};
 				tile.ready = false;
 				addUpdateable(tile);
+				ga('send', 'event', "Action", "Plant", "Cauliflower");
 			}
 		}
 	},

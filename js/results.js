@@ -14,10 +14,11 @@ class Results extends Phaser.Scene {
         this.load.image('button-login', 'assets/sprites/button-login.png');
         this.load.image('button-logout', 'assets/sprites/button-logout.png');
         this.load.image('button-replay', 'assets/sprites/button-replay.png');
+        this.load.image('button-survey', 'assets/sprites/button-survey.png');
     }
 
     create() {
-        console.info('Results scene started.');
+        //console.info('Results scene started.');
 
         /*sprite = this.add.sprite(160, 120, 'level');
         //sprite = game.add.sprite(game.world.centerX, game.world.centerY, 'level');
@@ -52,6 +53,17 @@ class Results extends Phaser.Scene {
 
         this.logoutText = this.add.text(this.logoutButton.x, this.logoutButton.y, "Logout", {fontFamily: 'Arial', fontSize: 26, color: '#000'}).setOrigin(0, 0.5);
         this.logoutText.visible = game.global.user_id != -1;
+
+        var that = this;
+
+        this.surveyButton = this.add.sprite(game.config.width, game.config.height, 'button-survey').setInteractive();
+        this.surveyButton.x -= this.surveyButton.width;
+        this.surveyButton.y -= this.surveyButton.height;
+        this.surveyButton.on('pointerup', function (pointer) {
+            that.openSurvey();
+        });
+
+        this.surveyText = this.add.text(this.surveyButton.x, this.surveyButton.y, "Survey", {fontFamily: 'Arial', fontSize: 26, color: '#FFF'}).setOrigin(0, 0.5);
 
         this.highscoresText = this.add.text(game.config.width * 0.5, 300, "Highscores", {fontFamily: 'Arial', fontSize: 16, color: '#f4f4f4', align: 'center'}).setOrigin(0.5, 0);
 
@@ -107,8 +119,6 @@ class Results extends Phaser.Scene {
 
         this.notSubmittedText = this.add.text(game.config.width * 0.5, this.score10Text.y + (this.score10Text.height * 2), "Highscore not submitted", {fontFamily: 'Arial', fontSize: 16, color: '#f4f4f4', align: 'center'}).setOrigin(0.5, 0);
 
-        var that = this;
-
         window.updateScores = function() {
             that.updateScores();
         }
@@ -136,10 +146,13 @@ class Results extends Phaser.Scene {
         this.replayButton.on('pointerup', function (pointer) {
             game.user.reset();
             that.scene.start("FarmFactsGame");
+            ga('send', 'event', "Button", "Replay");
         });
         this.replayButton.visible = game.global.user_id != -1;
 
         this.replayText = this.add.text(this.replayButton.x, this.replayButton.y, "Replay", {fontFamily: 'Arial', fontSize: 26, color: '#000'}).setOrigin(0, 0.5);
+
+        ga('send', 'event', "Action", "Result", "Score", game.global.score);
     }
 
     updateScores() {
@@ -249,5 +262,12 @@ class Results extends Phaser.Scene {
         this.loginText.visible = game.global.user_id == -1;
         this.logoutButton.visible = game.global.user_id != -1;
         this.logoutText.visible = game.global.user_id != -1;
+    }
+
+    openSurvey() {
+        var url = "https://docs.google.com/forms/d/e/1FAIpQLSfgWNMEdkcM-JcYxIR0zv57CSg6rtNHTMz7lKQBjBiWBdEQdQ/viewform?usp=sf_link";
+        /*var win = window.open(url, '_blank');
+        win.focus();*/
+        location.href = url;
     }
 }

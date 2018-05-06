@@ -15,8 +15,27 @@
 	<?php else: ?>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<?php endif; ?>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118800754-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-118800754-1');
+	</script>
+	<?php /*<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W2SFR9P');</script>
+	<!-- End Google Tag Manager -->*/ ?>
 </head>
 <body>
+	<?php /*<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2SFR9P"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->*/ ?>
 	<div id="modal" style="display:none;">
 		<div id="modal-login" class="modal-container">
 			<div id="modal-header">
@@ -85,6 +104,7 @@
 	<script src="js/cauliflowerTool.js"></script>
 	<script src="js/cornTool.js"></script>
 	<script src="js/applesTool.js"></script>
+	<script src="js/orangesTool.js"></script>
 	<script src="js/sickleTool.js"></script>
 	<script src="js/pickTool.js"></script>
 	<script src="js/game.js"></script>

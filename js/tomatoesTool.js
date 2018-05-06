@@ -13,9 +13,11 @@ tomatoes = {
 					game.global.tomatoeCount++;
 					updateTomatoesText();
 					tile.setTexture('dirt');
+					ga('send', 'event', "Action", "Harvest", "Tomatoes");
 				};
 				tile.ready = false;
 				addUpdateable(tile);
+				ga('send', 'event', "Action", "Plant", "Tomatoes");
 			}
 		}
 	},

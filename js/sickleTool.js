@@ -5,6 +5,7 @@ sickle = {
 				tile.plant.destroy();
 				tile.plant = undefined;
 				tile.till();
+				ga('send', 'event', "Action", "Tool", "Sickle");
 			}
 		}
 	}
